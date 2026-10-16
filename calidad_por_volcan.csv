@@ -1,0 +1,1221 @@
+﻿volcano_number,nombre_unico,pais,region,en_catalogo,n_erupciones,vei_max,pct_con_vei,pct_fecha_completa,pct_con_fecha_fin,puntaje_medio,primer_anio,ultimo_anio,nivel_calidad
+210010,West Eifel Volcanic Field,Germany,Central European Volcanic Province,1,2,,0.0,0.0,0.0,20.0,-8740,-8300,Baja
+210020,Chaine des Puys,France,Western European Volcanic Province,1,8,,0.0,0.0,0.0,20.0,-7840,-4040,Baja
+210030,Olot Volcanic Field,Spain,Western European Volcanic Province,1,0,,,,,,,,Sin erupciones
+210040,Calatrava Volcanic Field,Spain,Western European Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-3600,-3600,Baja
+211004,Colli Albani,Italy,Italian Peninsula Volcanic Provinces,1,0,,,,,,,,Sin erupciones
+211010,Campi Flegrei,Italy,Italian Peninsula Volcanic Provinces,1,20,5,70.0,5.0,5.0,49.2,-8480,1538,Media
+211020,Vesuvius,Italy,Italian Peninsula Volcanic Provinces,1,54,5,98.1,51.9,64.8,78.9,-6940,1913,Alta
+211030,Ischia,Italy,Italian Peninsula Volcanic Provinces,1,23,3,4.3,4.3,4.3,23.5,-7550,1302,Baja
+211031,Palinuro,Italy,Aeolian Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-8040,-8040,Baja
+211040,Stromboli,Italy,Aeolian Volcanic Arc,1,22,3,100.0,9.1,27.3,64.9,-6050,1934,Media
+211041,Panarea,Italy,Aeolian Volcanic Arc,1,0,,,,,,,,Sin erupciones
+211042,Lipari,Italy,Aeolian Volcanic Arc,1,3,,0.0,0.0,0.0,20.0,-5820,1230,Baja
+211050,Vulcano,Italy,Aeolian Volcanic Arc,1,37,4,62.2,10.8,13.5,48.9,-6550,1888,Baja
+211060,Etna,Italy,Sicily Volcanic Province,1,147,5,79.6,63.9,69.4,78.0,-6190,2022,Alta
+211070,Campi Flegrei del Mar di Sicilia,Italy,Sicily Volcanic Province,1,6,3,83.3,50.0,33.3,70.8,-253,1867,Media
+211071,Pantelleria,Italy,Sicily Volcanic Province,1,7,1,14.3,14.3,14.3,31.4,-7050,1891,Baja
+211080,Marsili,Italy,Aeolian Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-3050,-1050,Baja
+212020,Methana,Greece,Hellenic Volcanic Arc,1,1,3,100.0,0.0,0.0,60.0,-258,-258,Media
+212030,Milos,Greece,Hellenic Volcanic Arc,1,1,1,100.0,0.0,0.0,45.0,140,140,Baja
+212040,Santorini,Greece,Hellenic Volcanic Arc,1,11,7,100.0,72.7,72.7,86.4,-1610,1950,Alta
+212042,Kolumbo,Greece,Hellenic Volcanic Arc,1,1,4,100.0,100.0,100.0,85.0,1650,1650,Alta
+212050,Nisyros,Greece,Hellenic Volcanic Arc,1,4,2,100.0,25.0,25.0,73.0,1422,1888,Media
+213000,Kula,Turkiye,Western Anatolian Volcanic Province,1,0,,,,,,,,Sin erupciones
+213002,Hasandag-Keciboyduran Volcanic Complex,Turkiye,Western Anatolian Volcanic Province,1,0,,,,,,,,Sin erupciones
+213010,Erciyes Volcanic Complex,Turkiye,Western Anatolian Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-6880,-6880,Baja
+213011,Karaca Dag,Turkiye,Northern Arabia Volcanic Province,1,0,,,,,,,,Sin erupciones
+213020,Nemrut Dagi,Turkiye,Central Anatolian Volcanic Province,1,26,,0.0,3.8,0.0,21.0,-9950,1650,Baja
+213030,Tenduruk Dagi,Turkiye,Central Anatolian Volcanic Province,1,2,,0.0,0.0,0.0,20.0,-550,1855,Baja
+213040,Ararat,Turkiye,Central Anatolian Volcanic Province,1,3,3,33.3,33.3,0.0,36.7,-2450,1840,Baja
+214010,Elbrus,Russia,Caucasus Volcanic Province,1,1,,0.0,0.0,0.0,20.0,50,50,Baja
+214020,Kazbek,Georgia,Caucasus Volcanic Province,1,2,,0.0,0.0,0.0,20.0,-4000,-750,Baja
+214050,Samsari Volcanic Center,Georgia,Caucasus Volcanic Province,1,0,,,,,,,,Sin erupciones
+214060,Aragats,Armenia,Caucasus Volcanic Province,1,0,,,,,,,,Sin erupciones
+214070,Ghegham Volcanic Ridge,Armenia,Caucasus Volcanic Province,1,1,0,100.0,0.0,0.0,60.0,-1900,-1900,Media
+214080,Vaiyots-Sar,Armenia,Caucasus Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-2000,-2000,Baja
+214090,Porak,Armenia-Azerbaijan,Caucasus Volcanic Province,1,2,,0.0,0.0,0.0,20.0,-4510,-778,Baja
+214100,Tskhouk-Karckar,Armenia-Azerbaijan,Caucasus Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-3000,-3000,Baja
+221010,"Tair, Jebel at",Yemen,Red Sea Rift Volcanic Province,1,5,3,100.0,40.0,20.0,70.0,1750,2007,Media
+221020,Zubair Group,Yemen,Red Sea Rift Volcanic Province,1,3,2,100.0,66.7,66.7,86.7,1824,2013,Alta
+221021,Zukur,Yemen,Red Sea Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221022,Hanish,Yemen,Red Sea Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221040,Alid,Eritrea,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221041,Dallol,Ethiopia,Afar Rift Volcanic Province,1,2,1,100.0,50.0,50.0,80.0,1926,2011,Alta
+221050,Gada Ale,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221060,Alu-Dalafilla,Ethiopia,Afar Rift Volcanic Province,1,1,3,100.0,100.0,100.0,85.0,2008,2008,Alta
+221071,Bora Ale,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221080,Erta Ale,Ethiopia,Afar Rift Volcanic Province,1,4,0,100.0,50.0,25.0,79.2,1906,1967,Alta
+221090,Ale Bagu,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221091,Hayli Gubbi,Ethiopia,Afar Rift Volcanic Province,1,2,,0.0,50.0,50.0,40.0,-6250,2025,Baja
+221100,Dubbi,Eritrea,Afar Rift Volcanic Province,1,2,3,100.0,100.0,50.0,77.5,1400,1861,Alta
+221101,Nabro,Eritrea,Afar Rift Volcanic Province,1,1,4,100.0,100.0,100.0,100.0,2011,2011,Alta
+221102,Mallahle,Ethiopia-Eritrea,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221103,Sork Ale,Ethiopia-Eritrea,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221104,Asavyo,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221105,Mat Ala,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221106,Tat Ali,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221107,Borawli,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221110,Afdera,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221111,Ma Alalta,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221112,Alayta,Ethiopia,Afar Rift Volcanic Province,1,2,2,100.0,0.0,50.0,73.5,1907,1915,Media
+221113,Dabbahu,Ethiopia,Afar Rift Volcanic Province,1,4,3,25.0,25.0,25.0,36.2,-5850,2005,Baja
+221114,Dabbayra,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221115,Manda Hararo,Ethiopia,Afar Rift Volcanic Province,1,2,2,100.0,100.0,100.0,92.5,2007,2009,Alta
+221116,Groppo,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221120,Kurub,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221122,Manda-Inakir,Ethiopia-Djibouti,Afar Rift Volcanic Province,1,1,2,100.0,100.0,0.0,70.0,1928,1928,Media
+221123,Mousa Alli,Ethiopia-Eritrea-Djibouti,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221124,Gufa,Eritrea-Djibouti,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221125,Assab Volcanic Field,Eritrea,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221126,Ardoukoba,Djibouti,Afar Rift Volcanic Province,1,1,1,100.0,100.0,100.0,100.0,1978,1978,Alta
+221127,Manda Gargori,Ethiopia,Afar Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221141,Dama Ali,Ethiopia,Main Ethiopian Rift Volcanic Province,1,1,,0.0,100.0,0.0,35.0,1631,1631,Baja
+221150,Gabillema,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221151,Yangudi,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221160,Ayelu,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221170,Adwa,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221171,Hertali,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221172,Liado Hayk,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221180,Dofen,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221190,Fentale,Ethiopia,Main Ethiopian Rift Volcanic Province,1,1,0,100.0,0.0,0.0,60.0,1789,1789,Media
+221191,Beru,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221200,Kone,Ethiopia,Main Ethiopian Rift Volcanic Province,1,1,1,100.0,0.0,0.0,60.0,1820,1820,Media
+221210,Boset,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221220,Bishoftu Volcanic Field,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221222,Melkassa,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221230,Gedemsa,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221250,Bora-Bericha-Tullu Moye,Ethiopia,Main Ethiopian Rift Volcanic Province,1,3,1,66.7,0.0,0.0,46.7,760,1900,Baja
+221252,East Ziway,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221260,Butajiri-Silti Field,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221270,Aluto,Ethiopia,Main Ethiopian Rift Volcanic Province,1,5,,0.0,0.0,0.0,20.0,-10900,1550,Baja
+221280,Shala,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221290,Corbetti,Ethiopia,Main Ethiopian Rift Volcanic Province,1,2,5,50.0,0.0,0.0,40.0,-5425,-396,Baja
+221291,Bilate River Field,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221294,Northern Lake Abaya Volcanic Field,Ethiopia,Main Ethiopian Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221320,Korath Range,Ethiopia,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+221330,Mega Volcanic Field,Ethiopia,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222001,Lake Turkana North Island,Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222010,Lake Turkana Central Island,Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222020,Lake Turkana South Island,Kenya,Kenyan Rift Volcanic Province,1,1,1,100.0,0.0,0.0,60.0,1888,1888,Media
+222021,Marsabit,Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222030,"Barrier, The",Kenya,Kenyan Rift Volcanic Province,1,10,2,90.0,10.0,0.0,58.2,-7710,1921,Media
+222040,Namarunu,Kenya,Kenyan Rift Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-6550,-6550,Baja
+222050,Segererua Plateau,Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222051,Emuruangogolak,Kenya,Kenyan Rift Volcanic Province,1,8,0,75.0,0.0,0.0,50.0,-8050,1910,Media
+222052,Silali,Kenya,Kenyan Rift Volcanic Province,1,3,,0.0,0.0,0.0,20.0,-7050,-5050,Baja
+222053,Paka,Kenya,Kenyan Rift Volcanic Province,1,1,4,100.0,0.0,0.0,60.0,-7550,-7550,Media
+222054,Korosi,Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222055,Ol Kokwe,Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222056,Nyambeni Hills,Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222060,Menengai,Kenya,Kenyan Rift Volcanic Province,1,2,6,50.0,0.0,0.0,40.0,-7350,-6050,Baja
+222070,Homa Mountain,Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222071,Elmenteita Badlands,Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222080,"Eburru, Ol Doinyo",Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222090,Olkaria,Kenya,Kenyan Rift Volcanic Province,1,3,,0.0,0.0,0.0,20.0,-6050,1770,Baja
+222100,Longonot,Kenya,Kenyan Rift Volcanic Province,1,3,0,33.3,0.0,0.0,33.3,-7200,1863,Baja
+222110,Suswa,Kenya,Kenyan Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+222120,"Lengai, Ol Doinyo",Tanzania,Kenyan Rift Volcanic Province,1,26,3,84.6,57.7,61.5,78.4,-1550,2017,Alta
+222130,Chyulu Hills,Kenya,Kenyan Rift Volcanic Province,1,3,2,33.3,0.0,0.0,33.3,-2250,1855,Baja
+222160,Meru,Tanzania,Kenyan Rift Volcanic Province,1,4,4,100.0,25.0,25.0,70.0,-5850,1910,Media
+222161,Igwisi Hills,,,0,1,1,100.0,0.0,0.0,50.0,-10450,-10450,Media
+222164,Ngozi,Tanzania,Rukwa Rift Volcanic Province,1,2,5,50.0,0.0,0.0,32.5,-8250,1450,Baja
+222166,Rungwe,Tanzania,Rukwa Rift Volcanic Province,1,3,5,66.7,0.0,0.0,46.7,-2050,1250,Baja
+222170,Kyejo,Tanzania,Rukwa Rift Volcanic Province,1,1,2,100.0,0.0,0.0,60.0,1800,1800,Media
+223001,Fort Portal Volcanic Field,Uganda,Albertine Rift Volcanic Province,1,2,,0.0,0.0,0.0,20.0,-2750,-2120,Baja
+223002,Ndali-Kasenda Volcanic Field,Uganda,Albertine Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+223020,Nyamulagira,DR Congo,Albertine Rift Volcanic Province,1,48,3,91.7,72.9,77.1,85.2,1550,2018,Alta
+223030,Nyiragongo,DR Congo,Albertine Rift Volcanic Province,1,19,2,94.7,31.6,42.1,72.2,1884,2002,Media
+223040,Karisimbi,DR Congo-Rwanda,Albertine Rift Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-8050,-8050,Baja
+223045,Mugogo,DR Congo,Albertine Rift Volcanic Province,1,1,1,100.0,100.0,100.0,100.0,1957,1957,Alta
+224004,"Basile, Pico",Equatorial Guinea,Western Africa Volcanic Province,1,3,,0.0,0.0,0.0,20.0,1898,1923,Baja
+224010,Cameroon,Cameroon,Western Africa Volcanic Province,1,19,3,94.7,47.4,42.1,75.1,-450,2000,Alta
+224011,Tombel Graben,Cameroon,Western Africa Volcanic Province,1,0,,,,,,,,Sin erupciones
+224030,Oku Volcanic Field,Cameroon,Western Africa Volcanic Province,1,0,,,,,,,,Sin erupciones
+225001,Todra Volcanic Field,Niger,West Central Sahara Volcanic Province,1,0,,,,,,,,Sin erupciones
+225004,Tahalra Volcanic Field,Algeria,West Central Sahara Volcanic Province,1,0,,,,,,,,Sin erupciones
+225005,Atakor Volcanic Field,Algeria,West Central Sahara Volcanic Province,1,0,,,,,,,,Sin erupciones
+225006,Manzaz Volcanic Field,Algeria,West Central Sahara Volcanic Province,1,0,,,,,,,,Sin erupciones
+225009,"Toh, Tarso",Chad,East Central Sahara Volcanic Province,1,0,,,,,,,,Sin erupciones
+225010,"Tousside, Tarso",Chad,East Central Sahara Volcanic Province,1,0,,,,,,,,Sin erupciones
+225020,"Voon, Tarso",Chad,East Central Sahara Volcanic Province,1,0,,,,,,,,Sin erupciones
+225021,"Koussi, Emi",Chad,East Central Sahara Volcanic Province,1,0,,,,,,,,Sin erupciones
+225030,"Marra, Jebel",Sudan,Southeast Sahara Volcanic Province,1,1,4,100.0,0.0,0.0,60.0,-2000,-2000,Media
+225040,Kutum Volcanic Field,Sudan,Southeast Sahara Volcanic Province,1,0,,,,,,,,Sin erupciones
+225050,Meidob Volcanic Field,Sudan,Southeast Sahara Volcanic Province,1,6,4,83.3,0.0,0.0,53.3,-6050,-2950,Media
+225060,Bayuda Volcanic Field,Sudan,Southeast Sahara Volcanic Province,1,1,,0.0,0.0,0.0,20.0,850,850,Baja
+231001,"Ash Shaam, Harrat",Syria-Jordan-Saudi Arabia,Northern Arabia Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-2670,-2670,Baja
+231040,"Lunayyir, Harrat",Saudi Arabia,Western Arabia Volcanic Province,1,1,,0.0,0.0,0.0,20.0,1000,1000,Baja
+231050,"Ithnayn, Harrat",Saudi Arabia,Western Arabia Volcanic Province,1,0,,,,,,,,Sin erupciones
+231060,"Khaybar, Harrat",Saudi Arabia,Western Arabia Volcanic Province,1,1,2,100.0,0.0,0.0,45.0,650,650,Baja
+231070,"Rahat, Harrat",Saudi Arabia,Western Arabia Volcanic Province,1,2,3,100.0,50.0,50.0,80.0,641,1256,Alta
+231071,"Kishb, Harrat",Saudi Arabia,Western Arabia Volcanic Province,1,0,,,,,,,,Sin erupciones
+231072,"Birk, Harrat al",Saudi Arabia,Southwest Arabia Volcanic Province,1,0,,,,,,,,Sin erupciones
+231080,"Yar, Jabal",Saudi Arabia,Southwest Arabia Volcanic Province,1,1,2,100.0,0.0,0.0,60.0,1810,1810,Media
+231090,"Arhab, Harra of",Yemen,Southwest Arabia Volcanic Province,1,2,2,100.0,0.0,0.0,52.5,200,500,Media
+231110,"Haylan, Jabal",Yemen,Southwest Arabia Volcanic Province,1,1,0,100.0,0.0,0.0,45.0,-1200,-1200,Baja
+231120,"Dhamar, Harras of",Yemen,Southwest Arabia Volcanic Province,1,0,,,,,,,,Sin erupciones
+231160,"Sawad, Harra Es-",Yemen,Southwest Arabia Volcanic Province,1,1,3,100.0,0.0,0.0,60.0,1253,1253,Media
+231170,Balhaf-Bir Ali Volcanic Field,Yemen,Southwest Arabia Volcanic Province,1,0,,,,,,,,Sin erupciones
+231180,Bir Borhut,Yemen,Southwest Arabia Volcanic Province,1,0,,,,,,,,Sin erupciones
+232010,Damavand,Iran,Caucasus Volcanic Province,1,1,0,100.0,0.0,0.0,60.0,-5350,-5350,Media
+233001,"Grille, La",Union of the Comoros,Madagascar-Comoros Volcanic Province,1,0,,,,,,,,Sin erupciones
+233005,Mayotte,France,Madagascar-Comoros Volcanic Province,1,3,,0.0,0.0,0.0,20.0,-4050,-2050,Baja
+233010,Karthala,Union of the Comoros,Madagascar-Comoros Volcanic Province,1,34,3,85.3,50.0,41.2,70.8,1050,2007,Media
+233020,"Fournaise, Piton de la",France,Reunion Hotspot Volcano Group,1,198,5,94.9,68.2,71.2,86.7,-2795,2026,Alta
+233040,Fani Maore,France,Madagascar-Comoros Volcanic Province,1,1,0,100.0,100.0,100.0,100.0,2018,2018,Alta
+234000,Boomerang Seamount,France,Amsterdam-St. Paul Hotspot Volcano Group,1,1,0,100.0,100.0,0.0,85.0,1995,1995,Alta
+234001,Amsterdam Island,France,Amsterdam-St. Paul Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+234002,St. Paul,France,Amsterdam-St. Paul Hotspot Volcano Group,1,1,2,100.0,0.0,0.0,60.0,1793,1793,Media
+234010,Heard,Australia,Kerguelen Hotspot Volcano Group,1,11,2,100.0,90.9,81.8,93.4,1910,2012,Alta
+234011,McDonald Islands,Australia,Kerguelen Hotspot Volcano Group,1,4,1,100.0,100.0,25.0,81.2,1992,2005,Alta
+234020,Kerguelen Islands,France,Kerguelen Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+234030,"Est, Ile de l'",France,Crozet Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+234040,"Possession, Ile de la",France,Crozet Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+234050,"Cochons, Ile aux",France,Crozet Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+234060,Prince Edward Island,South Africa,Marion Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+234070,Marion Island,South Africa,Marion Hotspot Volcano Group,1,2,1,100.0,100.0,50.0,92.5,1980,2004,Alta
+241020,Auckland Volcanic Field,New Zealand,Western North Island Volcanic Province,1,2,,0.0,0.0,0.0,20.0,1397,1446,Baja
+241021,Tuhua/Mayor Island,New Zealand,Taupo Volcanic Arc,1,2,5,50.0,0.0,0.0,40.0,-6050,-5055,Baja
+241030,Taranaki,New Zealand,Western North Island Volcanic Province,1,42,5,7.1,0.0,0.0,22.5,-7650,1800,Baja
+241040,Whakaari/White Island,New Zealand,Taupo Volcanic Arc,1,39,3,94.9,87.2,56.4,88.4,1826,2026,Alta
+241050,Okataina,New Zealand,Taupo Volcanic Arc,1,31,5,90.3,51.6,58.1,78.0,-8050,1981,Alta
+241070,Taupo,New Zealand,Taupo Volcanic Arc,1,25,6,100.0,4.0,0.0,60.4,-9460,260,Media
+241080,Tongariro,New Zealand,Taupo Volcanic Arc,1,76,5,97.4,40.8,47.4,80.9,-9850,2012,Alta
+241100,Ruapehu,New Zealand,Taupo Volcanic Arc,1,64,4,93.8,81.2,67.2,88.8,-9850,2007,Alta
+241101,Clark,New Zealand,Southern Kermadec Volcanic Arc,1,0,,,,,,,,Sin erupciones
+241102,Tangaroa,New Zealand,Southern Kermadec Volcanic Arc,1,0,,,,,,,,Sin erupciones
+241110,Rumble V,New Zealand,Southern Kermadec Volcanic Arc,1,0,,,,,,,,Sin erupciones
+241120,Rumble IV,New Zealand,Southern Kermadec Volcanic Arc,1,0,,,,,,,,Sin erupciones
+241130,Rumble III,New Zealand,Southern Kermadec Volcanic Arc,1,6,0,100.0,100.0,66.7,95.0,1958,2008,Alta
+241131,Rumble II West,New Zealand,Southern Kermadec Volcanic Arc,1,0,,,,,,,,Sin erupciones
+241140,Healy,New Zealand,Southern Kermadec Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1360,1360,Baja
+241150,Brothers,New Zealand,Southern Kermadec Volcanic Arc,1,0,,,,,,,,Sin erupciones
+242001,Wright,New Zealand,Middle Kermadec Volcanic Arc,1,0,,,,,,,,Sin erupciones
+242005,Havre Seamount,New Zealand,Middle Kermadec Volcanic Arc,1,1,1,100.0,100.0,100.0,100.0,2012,2012,Alta
+242010,Curtis Island,New Zealand,Middle Kermadec Volcanic Arc,1,0,,,,,,,,Sin erupciones
+242021,Macauley,New Zealand,Middle Kermadec Volcanic Arc,1,1,6,100.0,0.0,0.0,45.0,-4360,-4360,Baja
+242022,Giggenbach,New Zealand,Middle Kermadec Volcanic Arc,1,0,,,,,,,,Sin erupciones
+242030,Raoul Island,New Zealand,Northern Kermadec Volcanic Arc,1,17,6,94.1,23.5,17.6,65.1,-2000,2006,Media
+242050,Monowai,New Zealand,Northern Kermadec Volcanic Arc,1,25,1,100.0,100.0,100.0,100.0,1977,2014,Alta
+243001,Kermadec Arc at 24.8°S,Tonga,Northern Kermadec Volcanic Arc,1,0,,,,,,,,Sin erupciones
+243010,Tofua Arc at 21.3°S,Tonga,Tofua Volcanic Arc,1,2,0,100.0,50.0,0.0,78.5,1907,1932,Alta
+243011,Tofua Arc at 21.1°S,Tonga,Tofua Volcanic Arc,1,0,,,,,,,,Sin erupciones
+243030,Tofua Arc at 20.9°S,Tonga,Tofua Volcanic Arc,1,4,1,100.0,75.0,50.0,89.2,1911,2017,Alta
+243040,Hunga Tonga-Hunga Ha'apai,Tonga,Tofua Volcanic Arc,1,7,5,85.7,71.4,57.1,80.7,1110,2021,Alta
+243050,Fonuafo'ou,Tonga,Tofua Volcanic Arc,1,5,3,100.0,40.0,40.0,80.8,1877,1936,Alta
+243060,Tofua,Tonga,Tofua Volcanic Arc,1,11,2,100.0,45.5,36.4,79.8,1774,2015,Alta
+243061,Kao,Tonga,Tofua Volcanic Arc,1,1,2,100.0,100.0,0.0,85.0,1847,1847,Alta
+243070,Lateiki,Tonga,Tofua Volcanic Arc,1,10,2,100.0,50.0,40.0,78.2,1781,2019,Alta
+243080,Home Reef,Tonga,Tofua Volcanic Arc,1,8,3,87.5,87.5,87.5,86.2,1852,2025,Alta
+243090,Late,Tonga,Tofua Volcanic Arc,1,2,2,100.0,0.0,0.0,60.0,1790,1854,Media
+243091,Tofua Arc at 18.3°S,Tonga,Tofua Volcanic Arc,1,2,3,100.0,100.0,100.0,100.0,2001,2019,Alta
+243100,Fonualei,Tonga,Tofua Volcanic Arc,1,6,4,66.7,50.0,16.7,63.2,1791,1957,Media
+243101,Tafahi,Tonga,Tofua Volcanic Arc,1,0,,,,,,,,Sin erupciones
+243102,Curacoa,Tonga,Tofua Volcanic Arc,1,2,3,100.0,100.0,50.0,92.5,1973,1979,Alta
+243110,Niuafo'ou,Tonga,Northeast Lau Basin Volcano Group,1,8,4,100.0,100.0,75.0,94.4,1853,1946,Alta
+243111,Dugong,Tonga,Northeast Lau Basin Volcano Group,1,0,,,,,,,,Sin erupciones
+243112,Lobster,Tonga,Northeast Lau Basin Volcano Group,1,0,,,,,,,,Sin erupciones
+243120,Tafu-Maka,Tonga,Northeast Lau Basin Volcano Group,1,1,0,100.0,100.0,100.0,100.0,2008,2008,Alta
+243130,West Mata,Tonga,Northeast Lau Basin Volcano Group,1,1,0,100.0,100.0,100.0,100.0,2008,2008,Alta
+243140,Niuatahi,Tonga,Northeast Lau Basin Volcano Group,1,0,,,,,,,,Sin erupciones
+244000,Vailuluu,United States,Samoan Hotspot Volcano Group,1,3,0,100.0,100.0,66.7,95.0,1973,2003,Alta
+244001,Tau,United States,Samoan Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+244010,Ofu-Olosega,United States,Samoan Hotspot Volcano Group,1,1,2,100.0,100.0,100.0,100.0,1866,1866,Alta
+244020,Tutuila,United States,Samoan Hotspot Volcano Group,1,1,3,100.0,0.0,0.0,45.0,440,440,Baja
+244021,Malumalu,United States,Samoan Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+244030,Upolu,Samoa,Samoan Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+244040,Savaii,Samoa,Samoan Hotspot Volcano Group,1,12,2,25.0,16.7,16.7,36.7,-1990,1905,Baja
+245010,Taveuni,Fiji,Fiji Volcanic Arc,1,34,2,100.0,0.0,0.0,60.0,-8040,1550,Media
+245030,Nabukelevu,Fiji,Fiji Volcanic Arc,1,3,,0.0,0.0,0.0,20.0,-580,1660,Baja
+250010,St. Andrew Strait,Papua New Guinea,Bismarck Sea Volcanic Province,1,4,2,50.0,50.0,25.0,56.2,-240,1953,Media
+250030,Titan Ridge,Papua New Guinea,Bismarck Sea Volcanic Province,1,1,0,100.0,100.0,100.0,100.0,1972,1972,Alta
+251001,Blup Blup,Papua New Guinea,Bismarck Volcanic Arc,1,0,,,,,,,,Sin erupciones
+251002,Kadovar,Papua New Guinea,Bismarck Volcanic Arc,1,1,2,100.0,100.0,100.0,100.0,2018,2018,Alta
+251010,Bam,Papua New Guinea,Bismarck Volcanic Arc,1,17,3,88.2,70.6,41.2,79.8,1872,1960,Alta
+251020,Manam,Papua New Guinea,Bismarck Volcanic Arc,1,41,4,92.7,73.2,68.3,84.2,1616,2018,Alta
+251030,Karkar,Papua New Guinea,Bismarck Volcanic Arc,1,11,4,81.8,45.5,36.4,68.2,-7140,1979,Media
+251041,Hankow Reef,Papua New Guinea,Bismarck Volcanic Arc,1,0,,,,,,,,Sin erupciones
+251050,Long Island,Papua New Guinea,Bismarck Volcanic Arc,1,11,6,72.7,54.5,45.5,69.5,-2040,1993,Media
+251060,Umboi,Papua New Guinea,Bismarck Volcanic Arc,1,0,,,,,,,,Sin erupciones
+251070,Ritter Island,Papua New Guinea,Bismarck Volcanic Arc,1,8,3,100.0,100.0,87.5,91.2,1700,2007,Alta
+251080,Sakar,Papua New Guinea,Bismarck Volcanic Arc,1,0,,,,,,,,Sin erupciones
+252010,Langila,Papua New Guinea,Bismarck Volcanic Arc,1,26,3,100.0,80.8,80.8,91.2,1878,2015,Alta
+252040,Dakataua,Papua New Guinea,Bismarck Volcanic Arc,1,3,6,66.7,0.0,0.0,41.7,653,1895,Baja
+252050,Bola,Papua New Guinea,Bismarck Volcanic Arc,1,0,,,,,,,,Sin erupciones
+252060,Garua Harbour,Papua New Guinea,Bismarck Volcanic Arc,1,0,,,,,,,,Sin erupciones
+252070,Krummel-Garbuna-Welcker,Papua New Guinea,Bismarck Volcanic Arc,1,4,2,100.0,75.0,75.0,86.2,150,2008,Alta
+252071,Lolo,Papua New Guinea,Bismarck Volcanic Arc,1,0,,,,,,,,Sin erupciones
+252080,Witori,Papua New Guinea,Bismarck Volcanic Arc,1,19,6,68.4,15.8,26.3,54.3,-7510,2012,Media
+252090,Sulu Range,Papua New Guinea,Bismarck Volcanic Arc,1,0,,,,,,,,Sin erupciones
+252100,Hargy,Papua New Guinea,Bismarck Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-5050,950,Baja
+252110,Bamus,Papua New Guinea,Bismarck Volcanic Arc,1,4,3,25.0,0.0,0.0,26.2,-350,1886,Baja
+252120,Ulawun,Papua New Guinea,Bismarck Volcanic Arc,1,47,4,97.9,91.5,85.1,95.0,1700,2025,Alta
+252130,Lolobau,Papua New Guinea,Bismarck Volcanic Arc,1,3,4,100.0,33.3,66.7,78.3,1100,1911,Alta
+252140,Rabaul,Papua New Guinea,Bismarck Volcanic Arc,1,19,6,94.7,84.2,73.7,86.1,683,2014,Alta
+252150,Tavui,Papua New Guinea,Bismarck Volcanic Arc,1,1,5,100.0,0.0,0.0,60.0,-4946,-4946,Media
+253010,Lamington,Papua New Guinea,Trobriand Volcanic Province,1,3,4,33.3,33.3,33.3,46.7,-5980,1951,Baja
+253011,Hydrographers Range,Papua New Guinea,Trobriand Volcanic Province,1,0,,,,,,,,Sin erupciones
+253021,Managlase Plateau,Papua New Guinea,Trobriand Volcanic Province,1,0,,,,,,,,Sin erupciones
+253030,Victory,Papua New Guinea,Trobriand Volcanic Province,1,1,2,100.0,0.0,100.0,75.0,1890,1890,Alta
+253040,Sessagara Hills,Papua New Guinea,Trobriand Volcanic Province,1,1,3,100.0,100.0,100.0,100.0,1943,1943,Alta
+253041,Goodenough,Papua New Guinea,Trobriand Volcanic Province,1,0,,,,,,,,Sin erupciones
+253050,Iamalele,Papua New Guinea,Trobriand Volcanic Province,1,0,,,,,,,,Sin erupciones
+253060,Dawson Strait Group,Papua New Guinea,Trobriand Volcanic Province,1,1,,0.0,0.0,0.0,20.0,1350,1350,Baja
+255010,Balbi,Papua New Guinea,Bougainville Volcanic Arc,1,0,,,,,,,,Sin erupciones
+255011,Billy Mitchell,Papua New Guinea,Bougainville Volcanic Arc,1,2,6,100.0,0.0,0.0,60.0,1032,1580,Media
+255020,Bagana,Papua New Guinea,Bougainville Volcanic Arc,1,25,4,96.0,84.0,56.0,87.2,1842,2000,Alta
+255021,Takuan Group,Papua New Guinea,Bougainville Volcanic Arc,1,0,,,,,,,,Sin erupciones
+255030,Loloru,Papua New Guinea,Bougainville Volcanic Arc,1,6,,0.0,0.0,0.0,20.0,-6950,-1050,Baja
+255050,Simbo,Solomon Islands,Solomon Volcanic Province,1,1,,0.0,0.0,0.0,20.0,1910,1910,Baja
+255052,Kana Keoki,Solomon Islands,Solomon Volcanic Province,1,0,,,,,,,,Sin erupciones
+255053,Coleman Seamount,Solomon Islands,Solomon Volcanic Province,1,0,,,,,,,,Sin erupciones
+255060,Kavachi,Solomon Islands,Solomon Volcanic Province,1,31,2,100.0,96.8,67.7,94.4,1939,2014,Alta
+255061,New Georgia at 8.9°S,Solomon Islands,Solomon Volcanic Province,1,0,,,,,,,,Sin erupciones
+255070,Savo,Solomon Islands,Solomon Volcanic Province,1,3,3,66.7,0.0,33.3,46.7,1568,1835,Baja
+256010,Tinakula,Solomon Islands,Vanuatu Volcanic Arc,1,25,3,92.0,72.0,56.0,79.8,-1050,2018,Alta
+257001,Motlav,Vanuatu,Vanuatu Volcanic Arc,1,0,,,,,,,,Sin erupciones
+257010,Suretamatai,Vanuatu,Vanuatu Volcanic Arc,1,3,2,100.0,33.3,33.3,68.3,1856,1965,Media
+257020,Gaua,Vanuatu,Vanuatu Volcanic Arc,1,18,3,100.0,100.0,66.7,92.5,1962,2022,Alta
+257030,Ambae,Vanuatu,Vanuatu Volcanic Arc,1,12,3,83.3,75.0,75.0,80.8,1530,2025,Alta
+257040,Ambrym,Vanuatu,Vanuatu Volcanic Arc,1,58,6,93.1,79.3,60.3,84.2,50,2024,Alta
+257050,Lopevi,Vanuatu,Vanuatu Volcanic Arc,1,30,3,93.3,80.0,76.7,88.2,1863,2007,Alta
+257060,East Epi,Vanuatu,Vanuatu Volcanic Arc,1,9,3,100.0,100.0,66.7,90.0,1920,2023,Alta
+257070,Kuwae,Vanuatu,Vanuatu Volcanic Arc,1,12,3,91.7,66.7,75.0,82.8,1425,1974,Alta
+257081,Nguna-Emau,Vanuatu,Vanuatu Volcanic Arc,1,0,,,,,,,,Sin erupciones
+257090,Traitor's Head,Vanuatu,Vanuatu Volcanic Arc,1,1,0,100.0,0.0,0.0,60.0,1881,1881,Media
+257100,Yasur,Vanuatu,Vanuatu Volcanic Arc,1,3,3,33.3,0.0,66.7,43.3,434,1270,Baja
+258001,Gemini-Oscostar,Vanuatu,Vanuatu Volcanic Arc,1,1,1,100.0,100.0,100.0,100.0,1996,1996,Alta
+258010,Matthew Island,France - claimed by Vanuatu,Vanuatu Volcanic Arc,1,3,2,100.0,66.7,0.0,71.7,1949,1956,Media
+258020,Hunter Island,France - claimed by Vanuatu,Vanuatu Volcanic Arc,1,4,0,25.0,50.0,0.0,42.5,1835,1903,Baja
+259010,Newer Volcanics Province,Australia,Southeastern Australia Volcanic Province,1,4,,0.0,0.0,0.0,20.0,-5850,-2900,Baja
+259804,McBride Volcanic Province,Australia,Northeastern Australia Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-5050,-5050,Baja
+260010,Barren Island,India,Andaman Volcanic Province,1,20,2,90.0,85.0,80.0,89.7,-8060,2025,Alta
+261030,Peuet Sague,Indonesia,Sunda Volcanic Arc,1,7,2,100.0,85.7,57.1,90.0,1918,2000,Alta
+261050,"Telong, Bur ni",Indonesia,Sunda Volcanic Arc,1,5,2,80.0,60.0,20.0,72.4,1837,1937,Media
+261070,Singkut,Indonesia,Sunda Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1881,1881,Baja
+261080,Sinabung,Indonesia,Sunda Volcanic Arc,1,5,4,80.0,80.0,80.0,84.0,810,2020,Alta
+261120,Sorikmarapi,Indonesia,Sunda Volcanic Arc,1,7,2,100.0,71.4,42.9,84.3,1829,1986,Alta
+261121,Malintang,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+261130,Talakmau,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+261140,Marapi,Indonesia,Sunda Volcanic Arc,1,68,2,98.5,83.8,72.1,86.5,1770,2023,Alta
+261150,Tandikat-Singgalang,Indonesia,Sunda Volcanic Arc,1,3,1,100.0,66.7,66.7,90.7,1889,1924,Alta
+261160,Talang,Indonesia,Sunda Volcanic Arc,1,13,2,100.0,84.6,61.5,91.3,1833,2007,Alta
+261170,Kerinci,Indonesia,Sunda Volcanic Arc,1,38,2,100.0,84.2,71.1,91.5,1838,2024,Alta
+261180,Sumbing (Indonesia),Indonesia,Sunda Volcanic Arc,1,2,2,100.0,100.0,100.0,100.0,1909,1921,Alta
+261220,Kaba,Indonesia,Sunda Volcanic Arc,1,11,2,100.0,54.5,72.7,87.8,1833,2000,Alta
+261230,Dempo,Indonesia,Sunda Volcanic Arc,1,33,2,97.0,78.8,75.8,91.2,1817,2025,Alta
+261231,Patah,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+261251,Ranau,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+261270,Suoh,Indonesia,Sunda Volcanic Arc,1,2,4,100.0,100.0,100.0,100.0,1933,2024,Alta
+262000,Krakatau,Indonesia,Sunda Volcanic Arc,1,57,6,87.7,78.9,73.7,85.8,250,2021,Alta
+263010,Pulosari,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+263020,Karang,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+263040,Perbakti-Gagak,Indonesia,Sunda Volcanic Arc,1,7,1,85.7,42.9,14.3,70.6,-6450,1939,Media
+263050,Salak,Indonesia,Sunda Volcanic Arc,1,5,2,100.0,20.0,20.0,70.4,1780,1938,Media
+263060,Gede-Pangrango,Indonesia,Sunda Volcanic Arc,1,22,3,100.0,77.3,72.7,88.7,1747,1957,Alta
+263070,Patuha,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+263090,Tangkuban Parahu,Indonesia,Sunda Volcanic Arc,1,21,2,85.7,85.7,76.2,86.4,-8020,2019,Alta
+263100,Papandayan,Indonesia,Sunda Volcanic Arc,1,4,3,100.0,100.0,100.0,96.2,1772,2002,Alta
+263130,Guntur,Indonesia,Sunda Volcanic Arc,1,24,3,95.8,75.0,50.0,83.8,1690,1847,Alta
+263131,Tampomas,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+263140,Galunggung,Indonesia,Sunda Volcanic Arc,1,6,5,100.0,83.3,83.3,90.8,-2250,1984,Alta
+263150,Talagabodas,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+263170,Ciremai,Indonesia,Sunda Volcanic Arc,1,6,3,100.0,83.3,50.0,87.8,1698,1951,Alta
+263180,Slamet,Indonesia,Sunda Volcanic Arc,1,42,2,97.6,92.9,83.3,94.6,1772,2014,Alta
+263200,Dieng Volcanic Complex,Indonesia,Sunda Volcanic Arc,1,30,3,93.3,76.7,60.0,84.0,-6590,2024,Alta
+263210,Sundoro,Indonesia,Sunda Volcanic Arc,1,11,2,81.8,54.5,54.5,75.6,230,1971,Alta
+263220,Sumbing (Indonesia),Indonesia,Sunda Volcanic Arc,1,1,1,100.0,0.0,0.0,60.0,1730,1730,Media
+263240,Merbabu,Indonesia,Sunda Volcanic Arc,1,2,2,50.0,0.0,0.0,40.0,1560,1797,Baja
+263250,Merapi,Indonesia,Sunda Volcanic Arc,1,106,4,75.5,45.3,43.4,67.4,-8780,2020,Media
+263251,Muria,,,0,1,,0.0,0.0,0.0,10.0,-160,-160,Baja
+263260,Lawu,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+263280,Kelud,Indonesia,Sunda Volcanic Arc,1,37,5,97.3,48.6,35.1,75.1,-230,2014,Alta
+263281,Kawi-Butak,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+263290,Arjuno-Welirang,Indonesia,Sunda Volcanic Arc,1,2,2,100.0,100.0,0.0,85.0,1950,1952,Alta
+263291,Penanggungan,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+263300,Semeru,Indonesia,Sunda Volcanic Arc,1,64,4,100.0,64.1,70.3,90.1,1818,2019,Alta
+263310,Tengger Caldera,Indonesia,Sunda Volcanic Arc,1,67,4,98.5,73.1,67.2,88.8,-5260,2023,Alta
+263320,Lamongan,Indonesia,Sunda Volcanic Arc,1,41,3,100.0,73.2,73.2,91.0,1799,1898,Alta
+263330,Iyang-Argapura,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+263340,Raung,Indonesia,Sunda Volcanic Arc,1,70,5,95.7,75.7,67.1,87.4,1593,2025,Alta
+263350,Ijen,Indonesia,Sunda Volcanic Arc,1,9,2,88.9,77.8,77.8,85.0,-640,1999,Alta
+263351,Baluran,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+264001,Buyan-Bratan,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+264010,Batur,Indonesia,Sunda Volcanic Arc,1,25,2,100.0,72.0,56.0,86.3,1804,1999,Alta
+264020,Agung,Indonesia,Sunda Volcanic Arc,1,5,5,100.0,60.0,60.0,84.0,1808,2022,Alta
+264030,Rinjani,Indonesia,Sunda Volcanic Arc,1,19,7,94.7,89.5,68.4,87.4,-600,2016,Alta
+264040,Tambora,Indonesia,Sunda Volcanic Arc,1,7,7,57.1,14.3,14.3,50.3,-3910,1967,Media
+264050,Sangeang Api,Indonesia,Sunda Volcanic Arc,1,20,3,100.0,85.0,50.0,87.8,1715,2022,Alta
+264060,"Sano, Wai",Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+264071,Ranakah,Indonesia,Sunda Volcanic Arc,1,2,3,100.0,100.0,50.0,92.5,1987,1991,Alta
+264080,Inierie,Indonesia,Sunda Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-8050,-8050,Baja
+264090,Inielika,Indonesia,Sunda Volcanic Arc,1,2,2,100.0,50.0,100.0,93.5,1905,2001,Alta
+264100,Ebulobo,Indonesia,Sunda Volcanic Arc,1,7,2,85.7,42.9,14.3,66.3,1830,1969,Media
+264110,Iya,Indonesia,Sunda Volcanic Arc,1,8,3,100.0,50.0,25.0,77.4,1671,1969,Alta
+264140,Kelimutu,Indonesia,Sunda Volcanic Arc,1,3,2,100.0,33.3,66.7,82.3,1865,1968,Alta
+264150,Paluweh,Indonesia,Sunda Volcanic Arc,1,9,3,100.0,88.9,88.9,95.6,1650,2012,Alta
+264160,Egon,Indonesia,Sunda Volcanic Arc,1,4,2,100.0,100.0,100.0,100.0,2004,2008,Alta
+264180,Lewotobi,Indonesia,Sunda Volcanic Arc,1,24,3,95.8,87.5,66.7,90.7,1675,2026,Alta
+264220,Iliboleng,Indonesia,Sunda Volcanic Arc,1,20,2,100.0,70.0,55.0,85.4,1885,1993,Alta
+264230,Lewotolok,Indonesia,Sunda Volcanic Arc,1,11,3,90.9,63.6,36.4,77.7,1660,2025,Alta
+264240,Ililabalekan,Indonesia,Sunda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+264250,Iliwerung,Indonesia,Sunda Volcanic Arc,1,14,3,100.0,78.6,71.4,90.4,1870,2021,Alta
+264260,"Tara, Batu",Indonesia,Sunda Volcanic Arc,1,2,2,100.0,50.0,100.0,87.5,1847,2007,Alta
+264270,Sirung,Indonesia,Sunda Volcanic Arc,1,11,2,90.9,90.9,72.7,88.4,1934,2021,Alta
+265040,Wurlali,Indonesia,Inner Banda Volcanic Arc,1,1,2,100.0,100.0,100.0,100.0,1892,1892,Alta
+265050,Teon,Indonesia,Inner Banda Volcanic Arc,1,5,4,100.0,60.0,0.0,74.4,1659,1904,Alta
+265060,Nila,Indonesia,Inner Banda Volcanic Arc,1,4,2,100.0,100.0,50.0,88.8,1903,1968,Alta
+265070,Serua,Indonesia,Inner Banda Volcanic Arc,1,10,4,100.0,30.0,20.0,72.6,1683,1921,Media
+265080,Manuk,Indonesia,Inner Banda Volcanic Arc,1,0,,,,,,,,Sin erupciones
+265090,Banda Api,Indonesia,Inner Banda Volcanic Arc,1,23,3,100.0,52.2,47.8,79.4,1586,1988,Alta
+266010,Colo,Indonesia,Sangihe Volcanic Arc,1,3,4,100.0,66.7,66.7,81.7,1898,1983,Alta
+266020,Ambang,Indonesia,Sangihe Volcanic Arc,1,2,1,50.0,50.0,0.0,52.5,1845,2005,Media
+266030,Soputan,Indonesia,Sangihe Volcanic Arc,1,41,3,100.0,78.0,75.6,91.6,1450,2020,Alta
+266100,Lokon-Empung,Indonesia,Sangihe Volcanic Arc,1,30,3,100.0,86.7,80.0,94.5,1375,2015,Alta
+266110,Mahawu,Indonesia,Sangihe Volcanic Arc,1,7,2,85.7,71.4,14.3,70.0,1788,1977,Media
+266120,Klabat,Indonesia,Sangihe Volcanic Arc,1,0,,,,,,,,Sin erupciones
+266130,Tangkoko-Duasudara,Indonesia,Sangihe Volcanic Arc,1,7,5,100.0,0.0,14.3,57.9,1680,1880,Media
+267010,Ruang,Indonesia,Sangihe Volcanic Arc,1,13,4,100.0,69.2,61.5,84.9,1808,2024,Alta
+267020,Karangetang,Indonesia,Sangihe Volcanic Arc,1,59,3,100.0,84.7,72.9,92.6,1675,2023,Alta
+267030,Banua Wuhu,Indonesia,Sangihe Volcanic Arc,1,6,3,100.0,83.3,83.3,95.3,1835,1918,Alta
+267040,Awu,Indonesia,Sangihe Volcanic Arc,1,16,4,100.0,68.8,75.0,87.9,1646,2004,Alta
+268001,Tarakan,Indonesia,Halmahera Volcanic Arc,1,0,,,,,,,,Sin erupciones
+268010,Dukono,Indonesia,Halmahera Volcanic Arc,1,5,3,80.0,40.0,20.0,65.0,1550,1933,Media
+268020,Tobaru,Indonesia,Halmahera Volcanic Arc,1,0,,,,,,,,Sin erupciones
+268030,Ibu,Indonesia,Halmahera Volcanic Arc,1,5,2,100.0,100.0,100.0,97.0,1911,2008,Alta
+268040,Gamkonora,Indonesia,Halmahera Volcanic Arc,1,13,5,100.0,69.2,38.5,80.5,1564,2007,Alta
+268050,Todoko-Ranu,Indonesia,Halmahera Volcanic Arc,1,0,,,,,,,,Sin erupciones
+268051,Jailolo,Indonesia,Halmahera Volcanic Arc,1,0,,,,,,,,Sin erupciones
+268052,Hiri,Indonesia,Halmahera Volcanic Arc,1,0,,,,,,,,Sin erupciones
+268060,Gamalama,Indonesia,Halmahera Volcanic Arc,1,67,3,98.5,86.6,79.1,93.4,1510,2018,Alta
+268061,Kie Matubu,Indonesia,Halmahera Volcanic Arc,1,2,3,100.0,0.0,0.0,60.0,-749,1210,Media
+268062,Mare,Indonesia,Halmahera Volcanic Arc,1,0,,,,,,,,Sin erupciones
+268063,Moti,Indonesia,Halmahera Volcanic Arc,1,0,,,,,,,,Sin erupciones
+268070,Kie Besi,Indonesia,Halmahera Volcanic Arc,1,8,4,100.0,75.0,87.5,87.8,1550,1988,Alta
+271011,Melebingoy,Philippines,Mindanao Volcanic Province,1,3,5,100.0,33.3,33.3,68.3,-1920,1640,Media
+271020,Matutum,Philippines,Mindanao Volcanic Province,1,3,,0.0,0.0,0.0,20.0,-400,1290,Baja
+271031,Leonard Range,Philippines,Eastern Philippine Volcanic Arc,1,3,,0.0,0.0,0.0,20.0,-4092,80,Baja
+271040,Makaturing,Philippines,Mindanao Volcanic Province,1,2,2,50.0,0.0,0.0,40.0,1865,1882,Baja
+271060,Ragang,Philippines,Mindanao Volcanic Province,1,8,2,100.0,75.0,25.0,81.2,1756,1916,Alta
+271070,Musuan,Philippines,Mindanao Volcanic Province,1,0,,,,,,,,Sin erupciones
+271080,Camiguin,Philippines,Mindanao Volcanic Province,1,4,3,100.0,50.0,50.0,80.0,1827,1948,Alta
+272020,Kanlaon,Philippines,Negros-Sulu Volcanic Arc,1,31,3,100.0,83.9,80.6,93.7,1866,2024,Alta
+272050,Cabalían,Philippines,Eastern Philippine Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1820,1820,Baja
+272080,Biliran,Philippines,Eastern Philippine Volcanic Arc,1,1,1,100.0,100.0,0.0,70.0,1939,1939,Media
+273010,Bulusan,Philippines,Eastern Philippine Volcanic Arc,1,25,3,84.0,68.0,68.0,81.8,-3050,2025,Alta
+273030,Mayon,Philippines,Eastern Philippine Volcanic Arc,1,66,4,92.4,78.8,72.7,87.7,-3100,2026,Alta
+273041,Iriga,Philippines,Eastern Philippine Volcanic Arc,1,0,,,,,,,,Sin erupciones
+273042,Isarog,Philippines,Eastern Philippine Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-3500,-3500,Baja
+273050,Banahaw,Philippines,Luzon Volcanic Arc,1,0,,,,,,,,Sin erupciones
+273060,San Pablo Volcanic Field,Philippines,Luzon Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1350,1350,Baja
+273070,Taal,Philippines,Luzon Volcanic Arc,1,39,6,100.0,48.7,51.3,80.0,-3580,2024,Alta
+273083,Pinatubo,Philippines,Luzon Volcanic Arc,1,9,6,88.9,44.4,44.4,70.0,-7460,2021,Media
+273090,Cagua,Philippines,Luzon Volcanic Arc,1,1,2,100.0,0.0,0.0,72.0,1860,1860,Media
+274010,Camiguin de Babuyanes,Philippines,Luzon Volcanic Arc,1,1,2,100.0,0.0,0.0,60.0,1857,1857,Media
+274020,Didicas,Philippines,Luzon Volcanic Arc,1,5,2,100.0,80.0,80.0,89.0,1856,1978,Alta
+274030,Babuyan Claro,Philippines,Luzon Volcanic Arc,1,7,3,100.0,14.3,14.3,67.4,1652,1924,Media
+274060,Iraya,Philippines,Luzon Volcanic Arc,1,3,,0.0,0.0,0.0,20.0,250,1454,Baja
+275001,Hainan Volcanic Field,China,Southeast Asia Volcanic Province,1,2,,0.0,50.0,50.0,40.0,1883,1933,Baja
+275020,Ly Son Group,Vietnam,Southeast Asia Volcanic Province,1,0,,,,,,,,Sin erupciones
+275060,"Cendres, Ile des",Vietnam,Southeast Asia Volcanic Province,1,1,2,100.0,100.0,100.0,100.0,1923,1923,Alta
+275080,Popa,Burma (Myanmar),Southeast Asia Volcanic Province,1,1,3,100.0,0.0,0.0,60.0,-6050,-6050,Media
+275110,Tengchong,China,Southeast Asia Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-5750,-5750,Baja
+281031,Kueishantao,Taiwan,Ryukyu Volcanic Arc,1,2,2,100.0,50.0,50.0,72.5,1785,1853,Media
+281032,Tatun Volcanic Group,Taiwan,Ryukyu Volcanic Arc,1,2,1,100.0,0.0,0.0,52.5,-4095,648,Media
+282010,Submarine Volcano NNE of Iriomotejima,Japan,Ryukyu Volcanic Arc,1,1,4,100.0,100.0,0.0,70.0,1924,1924,Media
+282020,Io-Torishima,Japan,Ryukyu Volcanic Arc,1,9,2,88.9,55.6,77.8,83.4,1664,1968,Alta
+282021,Yokoatejima,Japan,Ryukyu Volcanic Arc,1,1,2,100.0,0.0,0.0,45.0,1835,1835,Baja
+282022,Akusekijima,Japan,Ryukyu Volcanic Arc,1,0,,,,,,,,Sin erupciones
+282030,Suwanosejima,Japan,Ryukyu Volcanic Arc,1,24,4,100.0,75.0,70.8,84.1,1600,2004,Alta
+282040,Nakanoshima,Japan,Ryukyu Volcanic Arc,1,1,1,100.0,0.0,0.0,72.0,1914,1914,Media
+282043,Kuchinoshima,Japan,Ryukyu Volcanic Arc,1,4,,0.0,0.0,0.0,20.0,-6750,1190,Baja
+282050,Kuchinoerabujima,Japan,Ryukyu Volcanic Arc,1,29,4,62.1,58.6,55.2,65.7,-9520,2020,Media
+282060,Kikai,Japan,Ryukyu Volcanic Arc,1,28,7,67.9,53.6,50.0,67.0,-4350,2025,Media
+282070,Ata,Japan,Ryukyu Volcanic Arc,1,23,5,87.0,8.7,8.7,58.3,-5050,885,Media
+282080,Aira,Japan,Ryukyu Volcanic Arc,1,48,6,83.3,52.1,31.2,69.5,-8050,2017,Media
+282081,Yonemaru-Sumiyoshiike,Japan,Ryukyu Volcanic Arc,1,2,3,100.0,0.0,0.0,60.0,-6250,-6200,Media
+282090,Kirishimayama,Japan,Ryukyu Volcanic Arc,1,79,4,94.9,53.2,40.5,72.7,-7050,2025,Media
+282091,Fukue,Japan,Nankai Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-400,-400,Baja
+282100,Unzendake,Japan,Nankai Volcanic Arc,1,11,2,45.5,36.4,45.5,52.5,-4050,1996,Media
+282110,Asosan,Japan,Nankai Volcanic Arc,1,172,3,96.5,68.6,54.7,85.6,-8050,2021,Alta
+282120,Kujusan,Japan,Nankai Volcanic Arc,1,13,4,69.2,15.4,7.7,51.3,-9160,1995,Media
+282130,Yufu-Tsurumi,Japan,Nankai Volcanic Arc,1,3,4,100.0,33.3,33.3,73.3,-200,867,Media
+283001,Abu,Japan,Nankai Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-6850,-6850,Baja
+283002,Sanbesan,Japan,Nankai Volcanic Arc,1,3,4,33.3,0.0,0.0,33.3,-3550,650,Baja
+283010,Izu-Tobu,Japan,Izu Volcanic Arc,1,6,4,83.3,16.7,16.7,60.0,-8050,1989,Media
+283020,Hakoneyama,Japan,Izu Volcanic Arc,1,8,3,50.0,12.5,12.5,45.0,-6000,2015,Baja
+283030,Fujisan,Japan,Izu Volcanic Arc,1,58,5,51.7,17.2,6.9,44.3,-8540,1707,Baja
+283031,Yokodake,Japan,Northeast Japan Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-400,1200,Baja
+283040,Ontakesan,Japan,Nankai Volcanic Arc,1,4,3,100.0,100.0,75.0,96.2,1979,2014,Alta
+283050,Hakusan,Japan,Nankai Volcanic Arc,1,20,4,50.0,15.0,15.0,44.8,-7550,1659,Baja
+283060,Norikuradake,Japan,Nankai Volcanic Arc,1,3,3,100.0,0.0,0.0,60.0,-7700,-50,Media
+283069,Akandanayama,Japan,Nankai Volcanic Arc,1,0,,,,,,,,Sin erupciones
+283070,Yakedake,Japan,Nankai Volcanic Arc,1,38,4,84.2,57.9,60.5,77.1,-7450,1995,Alta
+283080,Midagahara,Japan,Nankai Volcanic Arc,1,5,2,40.0,40.0,0.0,46.0,-7300,1839,Baja
+283090,Niigata-Yakeyama,Japan,Northeast Japan Volcanic Arc,1,20,4,75.0,55.0,40.0,69.8,-1900,1998,Media
+283100,Myokosan,Japan,Northeast Japan Volcanic Arc,1,10,5,20.0,0.0,0.0,26.5,-4750,-750,Baja
+283110,Asamayama,Japan,Northeast Japan Volcanic Arc,1,129,5,93.8,81.4,56.6,86.6,-7200,2019,Alta
+283120,Kusatsu-Shiranesan,Japan,Northeast Japan Volcanic Arc,1,28,4,92.9,60.7,60.7,81.2,-6550,2018,Alta
+283121,Shiga,Japan,Northeast Japan Volcanic Arc,1,0,,,,,,,,Sin erupciones
+283122,Harunasan,Japan,Northeast Japan Volcanic Arc,1,3,5,100.0,66.7,0.0,76.7,450,550,Alta
+283130,Akagisan,Japan,Northeast Japan Volcanic Arc,1,0,,,,,,,,Sin erupciones
+283131,Hiuchigatake,Japan,Northeast Japan Volcanic Arc,1,2,2,50.0,50.0,0.0,52.5,-6050,1544,Media
+283140,Nikko-Shiranesan,Japan,Northeast Japan Volcanic Arc,1,11,3,63.6,45.5,9.1,59.3,-4150,1952,Media
+283141,Nantaisan,Japan,Northeast Japan Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-9540,-9540,Baja
+283142,Omanago Group,Japan,Northeast Japan Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-3050,-3050,Baja
+283143,Takaharayama,Japan,Northeast Japan Volcanic Arc,1,1,4,100.0,0.0,0.0,45.0,-4570,-4570,Baja
+283150,Nasudake,Japan,Northeast Japan Volcanic Arc,1,20,3,100.0,40.0,10.0,66.8,-8550,1963,Media
+283151,Numazawa,Japan,Northeast Japan Volcanic Arc,1,1,5,100.0,0.0,0.0,60.0,-3400,-3400,Media
+283160,Bandaisan,Japan,Northeast Japan Volcanic Arc,1,11,4,36.4,9.1,9.1,36.8,-7450,1888,Baja
+283170,Adatarayama,Japan,Northeast Japan Volcanic Arc,1,12,3,75.0,25.0,25.0,60.0,-8050,1996,Media
+283180,Azumayama,Japan,Northeast Japan Volcanic Arc,1,19,3,63.2,31.6,31.6,57.9,-5700,1977,Media
+283190,Zaozan [Zaosan],Japan,Northeast Japan Volcanic Arc,1,43,4,74.4,41.9,27.9,62.0,-7600,1940,Media
+283191,Hijiori,Japan,Northeast Japan Volcanic Arc,1,0,,,,,,,,Sin erupciones
+283200,Naruko,Japan,Northeast Japan Volcanic Arc,1,5,1,20.0,20.0,0.0,33.0,-4400,837,Baja
+283210,Kurikomayama,Japan,Northeast Japan Volcanic Arc,1,7,2,85.7,57.1,14.3,68.6,-3540,1950,Media
+283220,Chokaisan,Japan,Northeast Japan Volcanic Arc,1,14,2,50.0,35.7,35.7,54.5,-1050,1974,Media
+283230,Akita-Komagatake,Japan,Northeast Japan Volcanic Arc,1,18,4,72.2,11.1,16.7,53.2,-8800,1970,Media
+283240,Iwatesan,Japan,Northeast Japan Volcanic Arc,1,26,3,26.9,11.5,11.5,35.4,-6450,1919,Baja
+283250,Hachimantai,Japan,Northeast Japan Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-7900,-5350,Baja
+283260,Akita-Yakeyama,Japan,Northeast Japan Volcanic Arc,1,16,2,68.8,50.0,18.8,61.7,-3050,1997,Media
+283262,Megata,Japan,Northeast Japan Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-7050,-2050,Baja
+283270,Iwakisan,Japan,Northeast Japan Volcanic Arc,1,13,3,69.2,69.2,15.4,66.2,-8050,1863,Media
+283271,Towada,Japan,Northeast Japan Volcanic Arc,1,8,5,100.0,12.5,0.0,59.4,-9490,915,Media
+283280,Hakkodasan,Japan,Northeast Japan Volcanic Arc,1,7,3,100.0,0.0,0.0,60.0,-2850,1550,Media
+283290,Osorezan,Japan,Northeast Japan Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1787,1787,Baja
+284010,Izu-Oshima,Japan,Izu Volcanic Arc,1,99,4,71.7,48.5,47.5,68.4,-8450,1990,Media
+284011,Toshima,Japan,Izu Volcanic Arc,1,1,0,100.0,0.0,0.0,60.0,-4550,-4550,Media
+284020,Niijima,Japan,Izu Volcanic Arc,1,5,4,40.0,20.0,20.0,44.0,-5950,886,Baja
+284030,Kozushima,Japan,Izu Volcanic Arc,1,4,4,25.0,25.0,0.0,36.2,-8050,838,Baja
+284040,Miyakejima,Japan,Izu Volcanic Arc,1,39,4,97.4,56.4,46.2,79.8,-6450,2010,Alta
+284041,Mikurajima,Japan,Izu Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-5050,-4100,Baja
+284042,Kurose Hole,Japan,Izu Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284050,Hachijojima,Japan,Izu Volcanic Arc,1,18,5,66.7,16.7,5.6,52.3,-8020,1606,Media
+284060,Aogashima,Japan,Izu Volcanic Arc,1,7,4,71.4,14.3,28.6,54.3,-1800,1780,Media
+284061,Kita-Bayonnaise,Japan,Izu Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284070,Myojinsho,Japan,Izu Volcanic Arc,1,15,2,100.0,73.3,33.3,83.6,1869,1970,Alta
+284080,Sumisujima,Japan,Izu Volcanic Arc,1,2,2,100.0,50.0,0.0,78.5,1870,1916,Alta
+284090,Izu-Torishima,Japan,Izu Volcanic Arc,1,6,3,100.0,83.3,66.7,92.8,1871,2002,Alta
+284091,Sofugan,Japan,Izu Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284093,Suiyo Seamount,Japan,Ogasawara Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284094,Mokuyo Seamount,Japan,Ogasawara Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284095,Doyo Seamount,Japan,Ogasawara Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284096,Nishinoshima,Japan,Ogasawara Volcanic Arc,1,7,2,100.0,100.0,100.0,100.0,1973,2022,Alta
+284097,Kaikata Seamount,Japan,Ogasawara Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284100,Kaitoku Seamount,Japan,Ogasawara Volcanic Arc,1,2,1,100.0,100.0,100.0,100.0,1984,2022,Alta
+284110,Funka Asane,Japan,Ogasawara Volcanic Arc,1,4,2,100.0,25.0,75.0,73.8,1780,2022,Media
+284120,Ioto,Japan,Ogasawara Volcanic Arc,1,27,1,96.3,81.5,74.1,90.9,-850,2025,Alta
+284121,Kita-Fukutokutai,Japan,Ogasawara Volcanic Arc,1,1,0,100.0,100.0,100.0,100.0,1953,1953,Alta
+284130,Fukutoku-Oka-no-Ba,Japan,Ogasawara Volcanic Arc,1,10,4,100.0,100.0,100.0,100.0,1904,2021,Alta
+284131,Minami-Hiyoshi,Japan,Mariana Volcanic Arc,1,1,0,100.0,100.0,0.0,85.0,1975,1975,Alta
+284132,Nikko,Japan,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284133,Fukujin,United States,Mariana Volcanic Arc,1,3,1,100.0,100.0,66.7,95.0,1951,1973,Alta
+284134,Kasuga 1,United States,Mariana Volcanic Arc,1,1,0,100.0,100.0,0.0,85.0,1959,1959,Alta
+284135,Kasuga 2,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284136,NW Eifuku,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284137,Daikoku,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284140,Farallon de Pajaros,United States,Mariana Volcanic Arc,1,14,2,100.0,64.3,28.6,80.1,1864,1952,Alta
+284141,Ahyi,United States,Mariana Volcanic Arc,1,12,2,91.7,100.0,83.3,94.2,1934,2025,Alta
+284142,Supply Reef,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284143,Maug Islands,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284150,Asuncion,United States,Mariana Volcanic Arc,1,1,2,100.0,0.0,0.0,60.0,1906,1906,Media
+284160,Agrigan,United States,Mariana Volcanic Arc,1,1,4,100.0,100.0,0.0,85.0,1917,1917,Alta
+284170,Pagan,United States,Mariana Volcanic Arc,1,21,4,85.7,52.4,57.1,74.2,1340,2021,Alta
+284180,Alamagan,United States,Mariana Volcanic Arc,1,2,4,50.0,0.0,0.0,40.0,540,870,Baja
+284190,Guguan,United States,Mariana Volcanic Arc,1,1,2,100.0,0.0,0.0,45.0,1883,1883,Baja
+284191,Zealandia Bank,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284192,Sarigan,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284193,South Sarigan Seamount,United States,Mariana Volcanic Arc,1,1,3,100.0,100.0,100.0,85.0,2010,2010,Alta
+284200,Anatahan,United States,Mariana Volcanic Arc,1,4,3,100.0,100.0,100.0,96.2,2003,2007,Alta
+284201,East Diamante,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284202,Ruby,United States,Mariana Volcanic Arc,1,3,1,100.0,100.0,100.0,100.0,1966,2023,Alta
+284210,Esmeralda Bank,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284211,NW Rota-1,United States,Mariana Volcanic Arc,1,1,0,100.0,100.0,100.0,100.0,2003,2003,Alta
+284220,Forecast Seamount,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284230,Seamount X,United States,Mariana Volcanic Arc,1,0,,,,,,,,Sin erupciones
+284305,Mariana Back-Arc Segment at 15.5°N,United States,Mariana Volcanic Arc,1,1,0,100.0,100.0,100.0,100.0,2013,2013,Alta
+285010,Oshima-Oshima,Japan,Northeast Japan Volcanic Arc,1,5,4,60.0,40.0,20.0,59.4,-800,1790,Media
+285011,Esan,Japan,Northeast Japan Volcanic Arc,1,8,3,50.0,25.0,0.0,44.4,-6670,1874,Baja
+285020,Hokkaido-Komagatake,Japan,Northeast Japan Volcanic Arc,1,19,5,94.7,84.2,57.9,87.6,-4600,2000,Alta
+285030,Toya,Japan,Northeast Japan Volcanic Arc,1,13,5,61.5,76.9,61.5,73.1,-6550,2000,Media
+285031,Niseko,Japan,Northeast Japan Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-4900,-4900,Baja
+285032,Yoteizan,Japan,Northeast Japan Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-3550,-1050,Baja
+285034,Kuttara,Japan,Northeast Japan Volcanic Arc,1,3,1,33.3,0.0,0.0,33.3,-8050,1820,Baja
+285040,Shikotsu,Japan,Northeast Japan Volcanic Arc,1,41,5,100.0,78.0,80.5,91.9,-6950,1981,Alta
+285041,Rishirizan,Japan,Kuril Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-5830,-5830,Baja
+285050,Tokachidake,Japan,Kuril Volcanic Arc,1,27,3,70.4,48.1,48.1,67.2,-2650,2004,Media
+285060,Taisetsuzan,Japan,Kuril Volcanic Arc,1,5,,0.0,0.0,0.0,20.0,-3200,1739,Baja
+285061,Maruyama,Japan,Kuril Volcanic Arc,1,2,2,100.0,50.0,50.0,80.0,-1700,1898,Alta
+285070,Akan,Japan,Kuril Volcanic Arc,1,37,4,56.8,51.4,51.4,63.2,-7050,2026,Media
+285080,Kussharo,Japan,Kuril Volcanic Arc,1,6,,0.0,0.0,0.0,20.0,-5800,1320,Baja
+285081,Mashu,Japan,Kuril Volcanic Arc,1,7,6,100.0,0.0,0.0,60.0,-5550,1080,Media
+285082,Rausudake,Japan,Kuril Volcanic Arc,1,5,4,80.0,0.0,0.0,52.0,-270,1800,Media
+285083,Tenchozan,Japan,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+285090,Shiretoko-Iozan,Japan,Kuril Volcanic Arc,1,6,2,66.7,50.0,66.7,68.7,850,1935,Media
+290010,Tomariyama [Golovnin],Japan - administered by Russia,Kuril Volcanic Arc,1,3,1,33.3,0.0,0.0,33.3,-4550,1848,Baja
+290020,Raususan [Mendeleev],Japan - administered by Russia,Kuril Volcanic Arc,1,2,1,50.0,0.0,0.0,40.0,-2270,1880,Baja
+290021,Ruruidake [Smirnov],Japan - administered by Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290030,Chachadake [Tiatia],Japan - administered by Russia,Kuril Volcanic Arc,1,4,4,100.0,75.0,50.0,85.5,1812,1981,Alta
+290040,Berutarubesan [Berutarube],Japan - administered by Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290041,Moekeshiwan [Lvinaya Past],,,0,1,6,100.0,0.0,0.0,50.0,-10335,-10335,Media
+290050,Etorofu-Atosanupuri [Atosanupuri],Japan - administered by Russia,Kuril Volcanic Arc,1,2,2,100.0,50.0,0.0,72.5,1812,1932,Media
+290060,Hitokappu Volcano Group [Bogatyr Ridge],Japan - administered by Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290070,Etorofu-Yakeyama [Grozny Group],Japan - administered by Russia,Kuril Volcanic Arc,1,7,2,100.0,100.0,85.7,95.7,1968,2013,Alta
+290072,Odamoisan [Tebenkov],Japan - administered by Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290080,Sashiusudake [Baransky],Japan - administered by Russia,Kuril Volcanic Arc,1,3,1,33.3,33.3,0.0,41.7,1460,1951,Baja
+290090,Chirippusan [Chirip],,,0,2,2,100.0,0.0,0.0,42.5,1843,1860,Baja
+290100,Moyorodake [Medvezhia],Japan - administered by Russia,Kuril Volcanic Arc,1,5,2,80.0,60.0,40.0,75.4,-50,1999,Alta
+290111,Ivao Group,Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290120,Kolokol Group,Russia,Kuril Volcanic Arc,1,9,3,88.9,66.7,44.4,75.6,1780,1973,Alta
+290130,Kuril Arc at 46.3°N,Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290150,Chirpoi,Russia,Kuril Volcanic Arc,1,9,4,88.9,66.7,22.2,74.9,1712,2012,Alta
+290161,Milna,Russia,Kuril Volcanic Arc,1,5,3,100.0,40.0,20.0,74.8,1842,1914,Alta
+290180,Zavaritzki Caldera,Russia,Kuril Volcanic Arc,1,2,3,100.0,50.0,50.0,80.0,1923,1957,Alta
+290190,Prevo Peak,Russia,Kuril Volcanic Arc,1,2,3,100.0,0.0,0.0,60.0,1765,1825,Media
+290191,Uratman,Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290200,Ketoi,Russia,Kuril Volcanic Arc,1,3,2,100.0,33.3,33.3,77.3,1843,1960,Alta
+290210,Ushishur,Russia,Kuril Volcanic Arc,1,4,4,75.0,0.0,0.0,53.0,-7450,1884,Media
+290211,Srednii,Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290220,Rasshua,Russia,Kuril Volcanic Arc,1,2,3,100.0,50.0,0.0,72.5,1846,1957,Media
+290240,Sarychev Peak,Russia,Kuril Volcanic Arc,1,20,4,95.0,85.0,65.0,86.8,1765,2020,Alta
+290250,Raikoke,Russia,Kuril Volcanic Arc,1,4,4,100.0,50.0,50.0,80.0,1765,2019,Alta
+290260,Chirinkotan,Russia,Kuril Volcanic Arc,1,11,3,90.9,81.8,72.7,86.4,1884,2022,Alta
+290270,Ekarma,Russia,Kuril Volcanic Arc,1,3,2,100.0,66.7,66.7,86.7,1767,2010,Alta
+290290,Sinarka,Russia,Kuril Volcanic Arc,1,4,4,100.0,0.0,25.0,60.0,1725,1872,Media
+290300,Kharimkotan,Russia,Kuril Volcanic Arc,1,6,5,100.0,16.7,16.7,68.7,1713,1933,Media
+290310,Tao-Rusyr Caldera,Russia,Kuril Volcanic Arc,1,2,6,100.0,50.0,50.0,80.0,-5550,1952,Alta
+290320,Nemo Peak,Russia,Kuril Volcanic Arc,1,11,2,27.3,9.1,0.0,33.2,-7550,1938,Baja
+290331,Shirinki,Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290340,Fuss Peak,Russia,Kuril Volcanic Arc,1,9,3,100.0,11.1,0.0,54.4,-5340,1854,Media
+290350,Karpinsky Group,Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290360,Chikurachki,Russia,Kuril Volcanic Arc,1,28,4,96.4,67.9,67.9,82.4,-9360,2023,Alta
+290370,Vernadsky Ridge,Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+290380,Ebeko,Russia,Kuril Volcanic Arc,1,20,2,80.0,75.0,65.0,80.5,-390,2022,Alta
+290390,Alaid,Russia,Kuril Volcanic Arc,1,15,4,100.0,86.7,73.3,91.7,1790,2022,Alta
+300010,Kambalny,Russia,Kuril Volcanic Arc,1,2,3,50.0,50.0,50.0,60.0,1350,2017,Media
+300020,Koshelev,Russia,Kuril Volcanic Arc,1,4,3,25.0,0.0,0.0,30.0,-4550,1690,Baja
+300021,Yavinsky,Russia,Kuril Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-4050,-4050,Baja
+300022,Diky Greben,Russia,Kuril Volcanic Arc,1,4,,0.0,0.0,0.0,20.0,-5700,350,Baja
+300023,Kurile Lake,Russia,Kuril Volcanic Arc,1,2,7,50.0,0.0,0.0,40.0,-7550,-6440,Baja
+300030,Iliinsky,Russia,Kuril Volcanic Arc,1,6,5,50.0,0.0,0.0,40.0,-5700,1901,Baja
+300040,Zheltovsky,Russia,Kuril Volcanic Arc,1,4,5,75.0,25.0,25.0,60.0,-7050,1923,Media
+300050,Ksudach,Russia,Kuril Volcanic Arc,1,15,6,80.0,6.7,0.0,52.7,-7900,1907,Media
+300052,Olkoviy-Ozernoy Volcanic Field,Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+300053,Khodutka,Russia,Kuril Volcanic Arc,1,3,5,100.0,0.0,0.0,60.0,-1050,-300,Media
+300058,Asacha,Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+300059,Visokiy,Russia,Kuril Volcanic Arc,1,0,,,,,,,,Sin erupciones
+300060,Mutnovsky,Russia,Kuril Volcanic Arc,1,45,3,100.0,20.0,17.8,69.1,-7550,2000,Media
+300070,Gorely,Russia,Kuril Volcanic Arc,1,50,3,100.0,10.0,12.0,64.6,-7400,2010,Media
+300080,Opala,Russia,Kuril Volcanic Arc,1,4,5,50.0,25.0,0.0,42.5,-3500,1776,Baja
+300082,Tolmachev Dol,Russia,Kuril Volcanic Arc,1,2,4,50.0,0.0,0.0,40.0,-2650,300,Baja
+300083,Vilyuchinsky,Russia,Kuril Volcanic Arc,1,1,2,100.0,0.0,0.0,45.0,-8050,-8050,Baja
+300084,Barkhatnaya Sopka,Russia,Kuril Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-3550,-3550,Baja
+300090,Koryaksky,Russia,Eastern Kamchatka Volcanic Arc,1,7,3,57.1,42.9,42.9,55.7,-5050,2008,Media
+300100,Avachinsky,Russia,Eastern Kamchatka Volcanic Arc,1,55,5,50.9,23.6,23.6,50.5,-6100,2001,Media
+300110,Dzenzursky,Russia,Eastern Kamchatka Volcanic Arc,1,0,,,,,,,,Sin erupciones
+300120,Zhupanovsky,Russia,Eastern Kamchatka Volcanic Arc,1,16,3,68.8,37.5,37.5,64.0,-5050,2016,Media
+300121,Veer,Russia,Eastern Kamchatka Volcanic Arc,1,1,2,100.0,0.0,0.0,45.0,390,390,Baja
+300122,Kostakan,Russia,Eastern Kamchatka Volcanic Arc,1,6,3,100.0,0.0,0.0,57.5,-8050,1350,Media
+300123,Bakening,Russia,Eastern Kamchatka Volcanic Arc,1,5,3,60.0,0.0,0.0,41.0,-7550,-550,Baja
+300124,Zavaritsky,Russia,Eastern Kamchatka Volcanic Arc,1,2,4,100.0,0.0,0.0,60.0,-850,-800,Media
+300125,Akademia Nauk,Russia,Eastern Kamchatka Volcanic Arc,1,4,3,50.0,25.0,25.0,46.2,-5500,1996,Baja
+300130,Karymsky,Russia,Eastern Kamchatka Volcanic Arc,1,53,6,81.1,30.2,28.3,66.9,-6600,2025,Media
+300140,Maly Semyachik,Russia,Eastern Kamchatka Volcanic Arc,1,23,4,26.1,8.7,8.7,35.0,-7550,1952,Baja
+300150,Bolshoi Semiachik,Russia,Eastern Kamchatka Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-6800,-4450,Baja
+300160,Taunshits,Russia,Eastern Kamchatka Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-5800,-550,Baja
+300170,Uzon,Russia,Eastern Kamchatka Volcanic Arc,1,4,,0.0,0.0,0.0,20.0,-5750,200,Baja
+300180,Kikhpinych,Russia,Eastern Kamchatka Volcanic Arc,1,8,4,62.5,0.0,0.0,43.1,-2850,1550,Baja
+300190,Krasheninnikov,Russia,Eastern Kamchatka Volcanic Arc,1,32,4,25.0,3.1,3.1,31.2,-8050,2025,Baja
+300200,Kronotsky,Russia,Eastern Kamchatka Volcanic Arc,1,2,3,100.0,0.0,0.0,60.0,-4050,-3350,Media
+300210,Gamchen,Russia,Eastern Kamchatka Volcanic Arc,1,3,,0.0,0.0,0.0,20.0,-1650,-188,Baja
+300220,Komarov,Russia,Eastern Kamchatka Volcanic Arc,1,2,0,50.0,0.0,0.0,40.0,450,950,Baja
+300221,Vysoky,Russia,Eastern Kamchatka Volcanic Arc,1,1,0,100.0,0.0,0.0,60.0,-550,-550,Media
+300230,Kizimen,Russia,Eastern Kamchatka Volcanic Arc,1,11,5,63.6,9.1,18.2,51.5,-8050,2010,Media
+300240,Tolbachik,Russia,Eastern Kamchatka Volcanic Arc,1,58,4,74.1,39.7,36.2,65.1,-7600,2012,Media
+300241,Udina,Russia,Eastern Kamchatka Volcanic Arc,1,0,,,,,,,,Sin erupciones
+300242,Zimina,Russia,Eastern Kamchatka Volcanic Arc,1,0,,,,,,,,Sin erupciones
+300250,Bezymianny,Russia,Eastern Kamchatka Volcanic Arc,1,69,5,82.6,81.2,72.5,82.9,-7050,2024,Alta
+300251,Kamen,Russia,Eastern Kamchatka Volcanic Arc,1,0,,,,,,,,Sin erupciones
+300260,Klyuchevskoy,Russia,Eastern Kamchatka Volcanic Arc,1,111,4,95.5,59.5,64.0,85.2,-3950,2025,Alta
+300261,Ushkovsky,Russia,Eastern Kamchatka Volcanic Arc,1,3,2,33.3,0.0,0.0,32.3,-7550,1890,Baja
+300270,Sheveluch,Russia,Eastern Kamchatka Volcanic Arc,1,102,5,99.0,15.7,15.7,65.3,-8500,1999,Media
+300271,Piip,Russia,Aleutian Ridge Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-5050,-5050,Baja
+300272,Khangar,Russia,Central Kamchatka Volcanic Arc,1,10,6,20.0,0.0,0.0,28.0,-9500,1500,Baja
+300273,Cherpuk Group,Russia,Central Kamchatka Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-4550,-4550,Baja
+300280,Ichinsky,Russia,Central Kamchatka Volcanic Arc,1,14,5,14.3,0.0,0.0,24.6,-6950,1740,Baja
+300360,Bolshoi-Kekuknaysky,Russia,Central Kamchatka Volcanic Arc,1,1,3,100.0,0.0,0.0,60.0,-5310,-5310,Media
+300450,Alney-Chashakondzha,Russia,Central Kamchatka Volcanic Arc,1,3,3,66.7,0.0,0.0,46.7,-660,1600,Baja
+300511,Shisheika,Russia,Central Kamchatka Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-2240,-2240,Baja
+300512,Terpuk,Russia,Central Kamchatka Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-800,-800,Baja
+300520,Sedanka Lava Field,Russia,Central Kamchatka Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-7050,-7050,Baja
+300550,Gorny Institute,Russia,Central Kamchatka Volcanic Arc,1,3,0,33.3,0.0,0.0,33.3,-4250,1250,Baja
+300551,Kinenin,Russia,Central Kamchatka Volcanic Arc,1,1,4,100.0,0.0,0.0,60.0,850,850,Media
+300552,Bliznetsy,Russia,Central Kamchatka Volcanic Arc,1,1,1,100.0,0.0,0.0,45.0,-1060,-1060,Baja
+300560,Titila,Russia,Central Kamchatka Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-550,-550,Baja
+300590,Elovsky,Russia,Central Kamchatka Volcanic Arc,1,1,4,100.0,0.0,0.0,60.0,-7550,-7550,Media
+300650,Nylgimelkin,Russia,Central Kamchatka Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-3550,-3550,Baja
+300671,Spokoiny,Russia,Central Kamchatka Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-3450,-3450,Baja
+300680,Ostry,Russia,Central Kamchatka Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-2050,-2050,Baja
+300700,Severny,Russia,Central Kamchatka Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-1550,-1550,Baja
+302030,Udokan Plateau,Russia,Baikal Rift Volcanic Province,1,5,,0.0,0.0,0.0,20.0,-7290,-220,Baja
+302060,Jombolok,Russia,Baikal Rift Volcanic Province,1,2,,0.0,0.0,0.0,20.0,-5180,737,Baja
+303010,Taryatu-Chulutu,Mongolia,Baikal Rift Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-2980,-2980,Baja
+303015,Khoid Naiman Nuur,Mongolia,Baikal Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+304030,Ashikule Volcanic Field,China,Northern Tibetan Plateau Volcanic Province,1,1,2,100.0,100.0,0.0,85.0,1951,1951,Alta
+305010,Honggeertu,China,Central East Asia Volcanic Province,1,0,,,,,,,,Sin erupciones
+305011,Arxan-Chaihe,China,Central East Asia Volcanic Province,1,1,,0.0,0.0,0.0,20.0,0,0,Baja
+305020,Keluo Group,China,Central East Asia Volcanic Province,1,0,,,,,,,,Sin erupciones
+305030,Wudalianchi,China,Central East Asia Volcanic Province,1,2,3,100.0,50.0,50.0,72.5,1720,1776,Media
+305040,Jingpohu,China,Central East Asia Volcanic Province,1,3,,0.0,0.0,0.0,20.0,-3550,-520,Baja
+305050,Longgang Group,China,Central East Asia Volcanic Province,1,1,,0.0,0.0,0.0,20.0,350,350,Baja
+305060,Changbaishan,China-North Korea,Central East Asia Volcanic Province,1,7,6,57.1,42.9,0.0,53.1,-2155,1903,Media
+306030,Ulleungdo,South Korea,Central East Asia Volcanic Province,1,3,6,33.3,0.0,0.0,33.3,-8750,-2990,Baja
+306040,Halla,South Korea,Central East Asia Volcanic Province,1,4,,0.0,0.0,0.0,20.0,-2830,1007,Baja
+311010,Buldir,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+311020,Kiska,United States,Aleutian Ridge Volcanic Arc,1,4,3,100.0,100.0,50.0,88.8,1962,1990,Alta
+311030,Segula,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+311040,Davidof,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+311050,Little Sitkin,United States,Aleutian Ridge Volcanic Arc,1,2,1,50.0,0.0,50.0,40.0,1776,1828,Baja
+311060,Semisopochnoi,United States,Aleutian Ridge Volcanic Arc,1,6,2,83.3,83.3,83.3,84.2,1873,2021,Alta
+311070,Gareloi,United States,Aleutian Ridge Volcanic Arc,1,12,3,100.0,50.0,50.0,76.0,1790,1989,Alta
+311080,Tanaga,United States,Aleutian Ridge Volcanic Arc,1,6,0,33.3,0.0,0.0,33.3,-1050,1914,Baja
+311090,Takawangha,United States,Aleutian Ridge Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1550,1550,Baja
+311100,Bobrof,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+311110,Kanaga,United States,Aleutian Ridge Volcanic Arc,1,18,2,33.3,22.2,27.8,42.9,-7300,2023,Baja
+311111,Moffett,United States,Aleutian Ridge Volcanic Arc,1,3,,0.0,0.0,0.0,20.0,-7850,-1600,Baja
+311120,Great Sitkin,United States,Aleutian Ridge Volcanic Arc,1,9,2,77.8,77.8,66.7,83.2,1792,2021,Alta
+311130,Kasatochi,United States,Aleutian Ridge Volcanic Arc,1,2,4,100.0,50.0,50.0,80.0,1760,2008,Alta
+311140,Koniuji,United States,Aleutian Ridge Volcanic Arc,1,3,,0.0,0.0,0.0,20.0,-3850,-1150,Baja
+311160,Atka Volcanic Complex,United States,Aleutian Ridge Volcanic Arc,1,11,3,90.9,81.8,72.7,83.6,1812,2025,Alta
+311180,Seguam,United States,Aleutian Ridge Volcanic Arc,1,11,5,81.8,36.4,36.4,67.0,-7300,1993,Media
+311190,Amukta,United States,Aleutian Ridge Volcanic Arc,1,5,3,80.0,60.0,60.0,78.4,1786,1996,Alta
+311200,Chagulak,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+311210,Yunaska,United States,Aleutian Ridge Volcanic Arc,1,3,3,100.0,33.3,33.3,73.3,1824,1937,Media
+311220,Herbert,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+311230,Carlisle,United States,Aleutian Ridge Volcanic Arc,1,2,,0.0,50.0,0.0,32.5,1774,1828,Baja
+311240,Cleveland,United States,Aleutian Ridge Volcanic Arc,1,22,3,81.8,86.4,81.8,83.9,1893,2020,Alta
+311241,Tana,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+311250,Uliaga,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+311260,Kagamil,United States,Aleutian Ridge Volcanic Arc,1,1,,0.0,0.0,0.0,32.0,1929,1929,Baja
+311270,Vsevidof,United States,Aleutian Ridge Volcanic Arc,1,3,3,66.7,0.0,0.0,41.7,1817,1878,Baja
+311280,Recheschnoi,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+311290,Okmok,United States,Aleutian Ridge Volcanic Arc,1,18,6,83.3,55.6,61.1,74.6,-6310,2008,Alta
+311300,Bogoslof,United States,Aleutian Ridge Volcanic Arc,1,9,3,100.0,55.6,88.9,89.6,1796,2016,Alta
+311310,Makushin,United States,Aleutian Ridge Volcanic Arc,1,19,5,68.4,31.6,26.3,60.5,-6650,1995,Media
+311320,Akutan,United States,Aleutian Ridge Volcanic Arc,1,40,5,77.5,57.5,47.5,73.4,-7620,1992,Media
+311340,Westdahl,United States,Aleutian Ridge Volcanic Arc,1,7,4,100.0,42.9,57.1,79.3,1795,1991,Alta
+311350,Fisher,United States,Aleutian Ridge Volcanic Arc,1,6,6,66.7,16.7,16.7,50.3,-7420,1830,Media
+311360,Shishaldin,United States,Aleutian Ridge Volcanic Arc,1,40,3,85.0,57.5,47.5,76.1,-7550,2023,Alta
+311380,Roundtop,United States,Aleutian Ridge Volcanic Arc,1,1,5,100.0,0.0,0.0,45.0,-7600,-7600,Baja
+311390,Amak,United States,Aleutian Ridge Volcanic Arc,1,3,,0.0,0.0,33.3,25.0,-2550,1796,Baja
+312010,Frosty,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312011,Dutton,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312020,Emmons Lake Volcanic Center,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312030,Pavlof,United States,Aleutian Ridge Volcanic Arc,1,44,4,100.0,65.9,65.9,83.5,1762,2021,Alta
+312040,Pavlof Sister,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312050,Dana,United States,Aleutian Ridge Volcanic Arc,1,1,5,100.0,0.0,0.0,60.0,-1890,-1890,Media
+312055,Stepovak Bay Group,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312060,Kupreanof,United States,Aleutian Ridge Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312070,Veniaminof,United States,Aleutian Ridge Volcanic Arc,1,24,6,100.0,87.5,79.2,94.1,-1750,2021,Alta
+312080,Black Peak,United States,Alaska Peninsula Volcanic Arc,1,1,6,100.0,0.0,0.0,60.0,-1900,-1900,Media
+312090,Aniakchak,United States,Alaska Peninsula Volcanic Arc,1,16,6,31.2,6.2,6.2,33.1,-6300,1931,Baja
+312100,Yantarni,United States,Alaska Peninsula Volcanic Arc,1,1,5,100.0,0.0,0.0,60.0,-800,-800,Media
+312110,Chiginagak,United States,Alaska Peninsula Volcanic Arc,1,2,2,100.0,100.0,100.0,92.5,1971,1998,Alta
+312120,Kialagvik,United States,Alaska Peninsula Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312130,Ugashik-Peulik,United States,Alaska Peninsula Volcanic Arc,1,4,3,25.0,0.0,0.0,30.0,-6550,1814,Baja
+312131,Ukinrek Maars,United States,Alaska Peninsula Volcanic Arc,1,2,3,50.0,50.0,50.0,60.0,-350,1977,Media
+312132,Alaska Peninsula Arc at 155.4°W,United States,Alaska Peninsula Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312140,Martin,United States,Alaska Peninsula Volcanic Arc,1,4,,0.0,50.0,0.0,27.5,-1750,1953,Baja
+312150,Mageik,United States,Alaska Peninsula Volcanic Arc,1,8,,0.0,0.0,0.0,20.0,-8670,-500,Baja
+312160,Trident,United States,Alaska Peninsula Volcanic Arc,1,15,3,93.3,86.7,60.0,86.3,1913,1974,Alta
+312170,Katmai,United States,Alaska Peninsula Volcanic Arc,1,1,3,100.0,100.0,100.0,100.0,1912,1912,Alta
+312180,Novarupta,United States,Alaska Peninsula Volcanic Arc,1,1,6,100.0,100.0,100.0,100.0,1912,1912,Alta
+312190,Griggs,United States,Alaska Peninsula Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-1790,-1790,Baja
+312200,Snowy Mountain,United States,Alaska Peninsula Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1710,1710,Baja
+312210,Denison,United States,Alaska Peninsula Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312220,Steller,United States,Alaska Peninsula Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312230,Kukak,United States,Alaska Peninsula Volcanic Arc,1,0,,,,,,,,Sin erupciones
+312250,Kaguyak,United States,Alaska Peninsula Volcanic Arc,1,2,5,50.0,0.0,0.0,40.0,-4060,-3850,Baja
+312260,Fourpeaked,United States,Alaska Peninsula Volcanic Arc,1,1,2,100.0,100.0,100.0,100.0,2006,2006,Alta
+312270,Douglas,United States,Alaska Peninsula Volcanic Arc,1,0,,,,,,,,Sin erupciones
+313010,Augustine,United States,Alaska Peninsula Volcanic Arc,1,22,4,45.5,31.8,31.8,48.2,-5420,2005,Baja
+313020,Iliamna,United States,Alaska Peninsula Volcanic Arc,1,7,4,57.1,0.0,14.3,45.0,-5050,1876,Baja
+313030,Redoubt,United States,Alaska Peninsula Volcanic Arc,1,97,3,6.2,6.2,5.2,24.8,-9310,2009,Baja
+313040,Spurr,United States,Alaska Peninsula Volcanic Arc,1,7,4,28.6,28.6,28.6,42.9,-6050,1992,Baja
+313050,Hayes,United States,Alaska Peninsula Volcanic Arc,1,3,5,33.3,0.0,0.0,33.3,-1850,1200,Baja
+314010,St. Paul Island,United States,Northern Alaska-Bering Sea Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-1280,-1280,Baja
+314030,Ingakslugwat Hills,United States,Northern Alaska-Bering Sea Volcanic Province,1,0,,,,,,,,Sin erupciones
+314040,St. Michael,United States,Northern Alaska-Bering Sea Volcanic Province,1,0,,,,,,,,Sin erupciones
+314060,Imuruk Lake,United States,Northern Alaska-Bering Sea Volcanic Province,1,1,,0.0,0.0,0.0,20.0,300,300,Baja
+315001,Buzzard Creek,United States,Alaska Peninsula Volcanic Arc,1,1,2,100.0,0.0,0.0,60.0,-1050,-1050,Media
+315020,Wrangell,United States,Wrangell Volcanic Arc,1,5,4,100.0,60.0,20.0,74.4,190,1911,Alta
+315030,Churchill,United States,Wrangell Volcanic Arc,1,2,6,100.0,0.0,0.0,60.0,63,847,Media
+315040,Edgecumbe,United States,Queen Charlotte Volcano Group,1,4,,0.0,0.0,25.0,23.8,-9300,-2360,Baja
+315050,Duncan Canal,United States,Queen Charlotte Volcano Group,1,0,,,,,,,,Sin erupciones
+315060,Tlevak Strait-Suemez Island,United States,Queen Charlotte Volcano Group,1,0,,,,,,,,Sin erupciones
+315070,Behm Canal-Rudyerd Bay,United States,Northern Cordilleran Volcanic Province,1,0,,,,,,,,Sin erupciones
+320010,Fort Selkirk,Canada,Northern Cordilleran Volcanic Province,1,0,,,,,,,,Sin erupciones
+320020,Alligator Lake,Canada,Northern Cordilleran Volcanic Province,1,0,,,,,,,,Sin erupciones
+320030,Atlin Volcanic Field,Canada,Northern Cordilleran Volcanic Province,1,0,,,,,,,,Sin erupciones
+320031,Tuya Volcanic Field,Canada,Northern Cordilleran Volcanic Province,1,0,,,,,,,,Sin erupciones
+320040,Heart Peaks,Canada,Northern Cordilleran Volcanic Province,1,0,,,,,,,,Sin erupciones
+320050,Level Mountain,Canada,Northern Cordilleran Volcanic Province,1,0,,,,,,,,Sin erupciones
+320060,Edziza,Canada,Northern Cordilleran Volcanic Province,1,4,3,25.0,0.0,0.0,30.0,-6520,950,Baja
+320070,Spectrum Range,Canada,Northern Cordilleran Volcanic Province,1,0,,,,,,,,Sin erupciones
+320080,Hoodoo Mountain,Canada,Northern Cordilleran Volcanic Province,1,1,0,100.0,0.0,0.0,60.0,-7050,-7050,Media
+320090,Iskut-Unuk River Cones,Canada,Northern Cordilleran Volcanic Province,1,7,,0.0,0.0,0.0,20.0,-6830,1800,Baja
+320100,Tseax River Cone,Canada,Northern Cordilleran Volcanic Province,1,2,,0.0,0.0,0.0,20.0,1330,1690,Baja
+320110,Crow Lagoon,Canada,Northern Cordilleran Volcanic Province,1,0,,,,,,,,Sin erupciones
+320120,Milbanke Sound Group,Canada,Queen Charlotte Volcano Group,1,0,,,,,,,,Sin erupciones
+320140,Nazko,Canada,Interior Western Canada Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-5220,-5220,Baja
+320150,Wells Gray-Clearwater,Canada,Interior Western Canada Volcanic Province,1,2,,0.0,0.0,0.0,20.0,-5650,1550,Baja
+320160,Silverthrone,Canada,Garibaldi Volcanic Arc,1,0,,,,,,,,Sin erupciones
+320170,Bridge River Cones,Canada,Garibaldi Volcanic Arc,1,0,,,,,,,,Sin erupciones
+320180,Meager,Canada,Garibaldi Volcanic Arc,1,1,5,100.0,0.0,0.0,45.0,-410,-410,Baja
+320190,Garibaldi Lake,Canada,Garibaldi Volcanic Arc,1,0,,,,,,,,Sin erupciones
+320200,Garibaldi,Canada,Garibaldi Volcanic Arc,1,1,3,100.0,0.0,0.0,45.0,-8060,-8060,Baja
+320811,Cayley Volcanic Field,Canada,Garibaldi Volcanic Arc,1,0,,,,,,,,Sin erupciones
+321010,Baker,United States,Garibaldi Volcanic Arc,1,11,3,90.9,18.2,27.3,64.5,-7850,1880,Media
+321020,Glacier Peak,United States,Garibaldi Volcanic Arc,1,6,4,50.0,0.0,0.0,37.5,-3550,1700,Baja
+321030,Rainier,United States,High Cascades Volcanic Arc,1,20,4,45.0,0.0,0.0,38.0,-8050,1450,Baja
+321040,Adams,United States,High Cascades Volcanic Arc,1,15,2,100.0,0.0,0.0,57.0,-7050,950,Media
+321050,St. Helens,United States,High Cascades Volcanic Arc,1,40,6,55.0,27.5,22.5,52.2,-2340,2004,Media
+321060,West Crater,United States,High Cascades Volcanic Arc,1,2,2,100.0,0.0,0.0,45.0,-6110,-5750,Baja
+321070,Indian Heaven,United States,High Cascades Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-6250,-6250,Baja
+322010,Hood,United States,High Cascades Volcanic Arc,1,5,2,60.0,60.0,60.0,68.0,-4940,1865,Media
+322020,Jefferson,United States,High Cascades Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-4500,950,Baja
+322030,Blue Lake Crater,United States,High Cascades Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,680,680,Baja
+322040,Sand Mountain Field,United States,High Cascades Volcanic Arc,1,2,4,100.0,0.0,0.0,52.5,-5050,-950,Media
+322060,Belknap,United States,High Cascades Volcanic Arc,1,4,2,75.0,0.0,0.0,42.5,-5050,475,Baja
+322070,Three Sisters,United States,High Cascades Volcanic Arc,1,6,4,100.0,0.0,0.0,50.0,-7350,439,Media
+322090,Bachelor,United States,High Cascades Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-5800,-5800,Baja
+322100,Davis Lake,United States,High Cascades Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-2790,-2790,Baja
+322110,Newberry,United States,High Cascades Volcanic Arc,1,11,4,54.5,0.0,0.0,41.8,-9210,690,Baja
+322120,Devils Garden,United States,High Lava Plains Volcanic Province,1,0,,,,,,,,Sin erupciones
+322150,Cinnamon Butte,United States,High Cascades Volcanic Arc,1,0,,,,,,,,Sin erupciones
+322160,Crater Lake,United States,High Cascades Volcanic Arc,1,5,7,60.0,0.0,0.0,44.0,-5900,-2850,Baja
+322170,Diamond Craters,United States,High Lava Plains Volcanic Province,1,1,4,100.0,0.0,0.0,60.0,-5610,-5610,Media
+322190,Jordan Craters,United States,High Lava Plains Volcanic Province,1,1,2,100.0,0.0,0.0,45.0,-1250,-1250,Baja
+323010,Shasta,United States,High Cascades Volcanic Arc,1,22,4,18.2,0.0,0.0,27.3,-8050,1250,Baja
+323020,Medicine Lake,United States,High Cascades Volcanic Arc,1,9,3,44.4,0.0,0.0,36.1,-3190,1060,Baja
+323080,Lassen Volcanic Center,United States,High Cascades Volcanic Arc,1,5,3,40.0,20.0,20.0,41.0,800,1914,Baja
+323100,Clear Lake Volcanic Field,United States,California Coast Ranges Volcano Group,1,0,,,,,,,,Sin erupciones
+323110,Mono Lake Volcanic Field,United States,Basin and Range Volcanic Province,1,4,,0.0,0.0,0.0,20.0,350,1790,Baja
+323120,Mono-Inyo Craters,United States,Basin and Range Volcanic Province,1,13,4,30.8,0.0,0.0,32.3,-6750,1380,Baja
+323150,Mammoth Mountain,United States,Basin and Range Volcanic Province,1,2,2,50.0,0.0,0.0,40.0,-6540,1260,Baja
+323160,Ubehebe Craters,United States,Basin and Range Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-150,-150,Baja
+323170,Golden Trout Creek,,,0,1,1,100.0,0.0,0.0,50.0,-55500,-55500,Media
+323200,Salton Buttes,United States,Gulf of California Rift Volcanic Province,1,3,,0.0,0.0,0.0,20.0,-290,210,Baja
+324010,Black Butte Crater Lava Field,United States,Yellowstone-Snake River Hotspot Volcano Group,1,1,0,100.0,0.0,0.0,60.0,-8180,-8180,Media
+324020,Craters of the Moon,United States,Yellowstone-Snake River Hotspot Volcano Group,1,14,0,100.0,0.0,0.0,60.0,-10060,-130,Media
+324030,Wapi Lava Field,United States,Yellowstone-Snake River Hotspot Volcano Group,1,1,2,100.0,0.0,0.0,45.0,-300,-300,Baja
+324040,Hell's Half Acre,United States,Yellowstone-Snake River Hotspot Volcano Group,1,1,0,100.0,0.0,0.0,60.0,-3250,-3250,Media
+326010,Soda Lakes,United States,Basin and Range Volcanic Province,1,0,,,,,,,,Sin erupciones
+327040,Markagunt Plateau,United States,Basin and Range Volcanic Province,1,1,,0.0,0.0,0.0,10.0,1050,1050,Baja
+327050,Black Rock Desert,United States,Basin and Range Volcanic Province,1,1,,0.0,0.0,0.0,20.0,1290,1290,Baja
+327110,Carrizozo,United States,Basin and Range Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-3250,-3250,Baja
+327120,Zuni-Bandera,United States,Basin and Range Volcanic Province,1,2,0,50.0,0.0,0.0,40.0,-8710,-1170,Baja
+327812,Red Hill-Quemado,United States,Basin and Range Volcanic Province,1,3,,0.0,0.0,0.0,20.0,-9850,-9450,Baja
+328010,Dotsero,United States,Basin and Range Volcanic Province,1,1,2,100.0,0.0,0.0,45.0,-2200,-2200,Baja
+329010,Uinkaret Field,United States,Basin and Range Volcanic Province,1,1,1,100.0,0.0,0.0,60.0,1100,1100,Media
+329020,San Francisco Volcanic Field,United States,Basin and Range Volcanic Province,1,1,4,100.0,0.0,0.0,45.0,1075,1075,Baja
+331005,West Valley Segment,Canada,Northeast Pacific Rifts Volcanic Province,1,0,,,,,,,,Sin erupciones
+331010,Endeavour Segment,Canada,Northeast Pacific Rifts Volcanic Province,1,2,0,100.0,0.0,0.0,60.0,-6930,-3490,Media
+331011,Cobb Segment,Canada,Northeast Pacific Rifts Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-1180,-1180,Baja
+331020,CoAxial Segment,Undersea Features,Northeast Pacific Rifts Volcanic Province,1,2,0,100.0,100.0,50.0,92.5,1986,1993,Alta
+331021,Axial Seamount,Undersea Features,Northeast Pacific Rifts Volcanic Province,1,12,0,91.7,33.3,33.3,70.0,410,2015,Media
+331030,Cleft Segment,Undersea Features,Northeast Pacific Rifts Volcanic Province,1,3,0,100.0,66.7,0.0,76.7,-270,1986,Alta
+331031,North Gorda Ridge Segment,United States,Northeast Pacific Rifts Volcanic Province,1,3,0,100.0,33.3,33.3,73.3,-4840,1996,Media
+331032,Jackson Segment,United States,Northeast Pacific Rifts Volcanic Province,1,0,,,,,,,,Sin erupciones
+331040,Escanaba Segment,United States,Northeast Pacific Rifts Volcanic Province,1,1,0,100.0,0.0,0.0,60.0,-2260,-2260,Media
+331060,East Blanco Depression,Undersea Features,Northeast Pacific Rifts Volcanic Province,1,0,,,,,,,,Sin erupciones
+332000,Kamaehuakanaloa,United States,Hawaiian-Emperor Hotspot Volcano Group,1,4,0,100.0,25.0,25.0,70.0,-7050,1996,Media
+332010,Kilauea,United States,Hawaiian-Emperor Hotspot Volcano Group,1,75,4,93.3,53.3,56.0,78.2,-4650,2024,Alta
+332020,Mauna Loa,United States,Hawaiian-Emperor Hotspot Volcano Group,1,110,2,100.0,34.5,34.5,73.9,-8050,2022,Media
+332030,Mauna Kea,United States,Hawaiian-Emperor Hotspot Volcano Group,1,6,,0.0,0.0,0.0,20.0,-5150,-2460,Baja
+332040,Hualalai,United States,Hawaiian-Emperor Hotspot Volcano Group,1,22,2,100.0,0.0,4.5,60.7,-7540,1800,Media
+332060,Haleakala,United States,Hawaiian-Emperor Hotspot Volcano Group,1,40,,0.0,0.0,0.0,20.0,-7950,1750,Baja
+333010,Teahitia,France,Society Islands Hotspot Volcano Group,1,4,0,100.0,100.0,100.0,100.0,1982,1985,Alta
+333020,Rocard,France,Society Islands Hotspot Volcano Group,1,3,0,100.0,100.0,66.7,95.0,1966,1972,Alta
+333030,Moua Pihaa,France,Society Islands Hotspot Volcano Group,1,2,0,100.0,100.0,100.0,100.0,1969,1970,Alta
+333040,Mehetia,France,Society Islands Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+333050,Adams Seamount,United Kingdom,Pitcairn Hotspot Volcano Group,1,4,0,100.0,0.0,0.0,60.0,-5050,-50,Media
+333060,Macdonald,France,Austral-Cook Hotspot Volcano Group,1,10,0,100.0,100.0,100.0,100.0,1967,1987,Alta
+334020,Northern EPR at 17°N,Mexico,Northern East Pacific Rise Volcanic Province,1,1,0,100.0,0.0,0.0,60.0,-50,-50,Media
+334021,Northern EPR at 16°N,Mexico,Northern East Pacific Rise Volcanic Province,1,1,0,100.0,0.0,0.0,60.0,-50,-50,Media
+334040,Northern EPR at 10.7°N,Undersea Features,Northern East Pacific Rise Volcanic Province,1,1,0,100.0,100.0,100.0,100.0,2003,2003,Alta
+334050,Northern EPR at 9.8°N,Undersea Features,Northern East Pacific Rise Volcanic Province,1,18,0,100.0,33.3,22.2,71.7,-5050,2025,Media
+334070,Galapagos Rift at 86°W,Ecuador,Galapagos Rift Volcanic Province,1,2,0,100.0,100.0,0.0,85.0,1972,1996,Alta
+334100,Southern EPR at 8°S,Undersea Features,Southern East Pacific Rise Volcanic Province,1,1,0,100.0,100.0,100.0,100.0,1964,1964,Alta
+334120,Southern EPR at 17.5°S (Segment K),Undersea Features,Southern East Pacific Rise Volcanic Province,1,5,0,100.0,40.0,0.0,70.0,1625,1990,Media
+334130,Southern EPR at 18.2°S (Segment J),Undersea Features,Southern East Pacific Rise Volcanic Province,1,2,0,100.0,0.0,0.0,60.0,1820,1890,Media
+334140,Southern EPR at 18.5°S (Segment I),Undersea Features,Southern East Pacific Rise Volcanic Province,1,3,0,100.0,0.0,0.0,60.0,1620,1915,Media
+335020,Hollister Ridge,Undersea Features,Pacific-Antarctic Ridge Volcanic Province,1,0,,,,,,,,Sin erupciones
+335030,Udintsev Transform,Undersea Features,Pacific-Antarctic Ridge Volcanic Province,1,0,,,,,,,,Sin erupciones
+341001,Pinacate,Mexico,Basin and Range Volcanic Province,1,0,,,,,,,,Sin erupciones
+341003,"San Luis, Isla",Mexico,Gulf of California Rift Volcanic Province,1,3,,0.0,0.0,0.0,20.0,-2647,-1141,Baja
+341004,Jaraguay Volcanic Field,Mexico,Gulf of California Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+341007,San Borja Volcanic Field,Mexico,Gulf of California Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+341011,"Tortuga, Isla",Mexico,Gulf of California Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+341012,Comondu-La Purisima,Mexico,Gulf of California Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+341020,Barcena,Mexico,Mathematicians Ridge Volcanic Province,1,1,3,100.0,100.0,100.0,100.0,1952,1952,Alta
+341021,Socorro,Mexico,Mathematicians Ridge Volcanic Province,1,3,2,66.7,66.7,66.7,68.3,-3090,1993,Media
+341022,Durango Volcanic Field,Mexico,Basin and Range Volcanic Province,1,0,,,,,,,,Sin erupciones
+341024,Sanganguey,Mexico,Trans-Mexican Volcanic Arc,1,0,,,,,,,,Sin erupciones
+341030,Ceboruco,Mexico,Trans-Mexican Volcanic Arc,1,4,6,50.0,25.0,25.0,50.0,930,1870,Media
+341031,Mascota Volcanic Field,Mexico,Trans-Mexican Volcanic Arc,1,0,,,,,,,,Sin erupciones
+341040,Colima,Mexico,Trans-Mexican Volcanic Arc,1,79,4,68.4,41.8,46.8,63.2,-7690,2019,Media
+341060,Michoacan-Guanajuato,Mexico,Trans-Mexican Volcanic Arc,1,10,4,60.0,20.0,20.0,52.0,-7350,1943,Media
+341061,Zitacuaro-Valle de Bravo,Mexico,Trans-Mexican Volcanic Arc,1,1,0,100.0,0.0,0.0,60.0,-3050,-3050,Media
+341062,Jocotitlan,Mexico,Trans-Mexican Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-7740,1270,Baja
+341070,"Toluca, Nevado de",Mexico,Trans-Mexican Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-1350,-1350,Baja
+341080,Chichinautzin,Mexico,Trans-Mexican Volcanic Arc,1,8,4,87.5,0.0,0.0,51.2,-7930,399,Media
+341082,Iztaccihuatl,Mexico,Trans-Mexican Volcanic Arc,1,0,,,,,,,,Sin erupciones
+341090,Popocatepetl,Mexico,Trans-Mexican Volcanic Arc,1,41,5,90.2,24.4,39.0,64.2,-7150,2005,Media
+341091,"Malinche, La",Mexico,Trans-Mexican Volcanic Arc,1,7,,0.0,0.0,0.0,20.0,-6890,-1170,Baja
+341092,Serdan-Oriental Volcanic Field,Mexico,Trans-Mexican Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-3920,-3920,Baja
+341093,"Humeros, Los",Mexico,Trans-Mexican Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-4470,-4470,Baja
+341095,Naolinco Volcanic Field,Mexico,Trans-Mexican Volcanic Arc,1,2,2,50.0,0.0,0.0,40.0,-1202,1145,Baja
+341100,"Orizaba, Pico de",Mexico,Trans-Mexican Volcanic Arc,1,23,5,95.7,0.0,8.7,58.3,-7530,1846,Media
+341110,San Martin,Mexico,Trans-Mexican Volcanic Arc,1,12,4,25.0,16.7,16.7,36.4,-3440,1794,Baja
+341120,"Chichon, El",Mexico,Chiapanecan Volcanic Arc,1,13,5,46.2,7.7,7.7,41.5,-6510,1982,Baja
+341130,Tacana,Mexico-Guatemala,Central America Volcanic Arc,1,10,4,40.0,20.0,20.0,42.5,-9450,1986,Baja
+342020,Tajumulco,Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342030,Santa Maria,Guatemala,Central America Volcanic Arc,1,3,6,100.0,66.7,100.0,86.7,1902,1922,Alta
+342040,Almolonga,Guatemala,Central America Volcanic Arc,1,3,3,100.0,66.7,66.7,86.7,800,1818,Alta
+342060,Atitlan,Guatemala,Central America Volcanic Arc,1,13,3,84.6,30.8,23.1,65.8,-1020,1853,Media
+342070,Toliman,Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342080,Acatenango,Guatemala,Central America Volcanic Arc,1,8,3,37.5,25.0,37.5,48.4,-2710,1972,Baja
+342090,Fuego,Guatemala,Central America Volcanic Arc,1,61,4,90.2,65.6,52.5,79.5,-1580,2002,Alta
+342100,Agua,Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342110,Pacaya,Guatemala,Central America Volcanic Arc,1,32,3,100.0,46.9,46.9,78.0,400,2015,Alta
+342111,Cuilapa-Barbarena,Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342120,Tecuamburro,Guatemala,Central America Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-960,-960,Baja
+342121,Jumaytepeque,Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342130,Moyuta,Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342140,Flores (Guatemala),Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342141,Tahual,Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342150,"Santiago, Cerro",Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342160,Suchitan,Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342170,Chingo,Guatemala-El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+342180,Ixtepeque,Guatemala,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343002,"Singuil, Cerro",El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343010,Apaneca Range,El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343020,Santa Ana,El Salvador,Central America Volcanic Arc,1,13,3,92.3,53.8,23.1,75.5,1521,2005,Alta
+343030,Izalco,El Salvador,Central America Volcanic Arc,1,51,3,98.0,51.0,66.7,83.5,1770,1966,Alta
+343041,Coatepeque Caldera,El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343050,San Salvador,El Salvador,Central America Volcanic Arc,1,5,4,100.0,40.0,40.0,72.4,640,1917,Media
+343051,"Cinotepeque, Cerro",El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343060,Ilopango,El Salvador,Central America Volcanic Arc,1,2,6,100.0,50.0,50.0,80.0,450,1879,Alta
+343070,San Vicente,El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343072,Taburete,El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343080,Tecapa,El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343081,Usulutan,El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343082,"Tigre, El",El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343090,Chinameca,El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343100,San Miguel,El Salvador,Central America Volcanic Arc,1,41,3,97.6,73.2,61.0,87.9,1510,2022,Alta
+343101,"Aramuaca, Laguna",El Salvador,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343130,"Tigre, Isla del",Honduras,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343140,"Zacate Grande, Isla",Honduras,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+343150,"Yojoa, Lago",Honduras,Central America Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-11073,-7638,Baja
+344010,Cosiguina,Nicaragua,Central America Volcanic Arc,1,5,5,40.0,40.0,20.0,48.4,1500,1859,Baja
+344020,San Cristobal (Nicaragua),Nicaragua,Central America Volcanic Arc,1,35,3,100.0,88.6,85.7,94.0,1528,2024,Alta
+344040,Telica,Nicaragua,Central America Volcanic Arc,1,48,4,95.8,62.5,77.1,87.5,1527,2025,Alta
+344070,"Negro, Cerro",Nicaragua,Central America Volcanic Arc,1,23,3,100.0,95.7,87.0,96.8,1850,1999,Alta
+344080,Las Pilas-El Hoyo Complex,Nicaragua,Central America Volcanic Arc,1,3,2,66.7,66.7,66.7,70.0,1528,1954,Media
+344090,Momotombo,Nicaragua,Central America Volcanic Arc,1,19,4,89.5,31.6,31.6,66.5,-2550,2015,Media
+344091,Apoyeque,Nicaragua,Central America Volcanic Arc,1,4,6,100.0,0.0,0.0,60.0,-4160,-50,Media
+344092,Nejapa-Miraflores,Nicaragua,Central America Volcanic Arc,1,8,3,12.5,0.0,0.0,23.1,-7430,1060,Baja
+344100,Masaya,Nicaragua,Central America Volcanic Arc,1,36,6,100.0,58.3,77.8,87.3,-4050,2015,Alta
+344101,Granada,Nicaragua,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+344110,Mombacho,Nicaragua,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+344111,Zapatera,Nicaragua,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+344120,Concepcion,Nicaragua,Central America Volcanic Arc,1,33,4,100.0,66.7,84.8,91.5,-770,2024,Alta
+345010,Orosi,Costa Rica,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+345020,Rincon de la Vieja,Costa Rica,Central America Volcanic Arc,1,30,4,96.7,76.7,76.7,88.1,-1820,2021,Alta
+345030,Miravalles,Costa Rica,Central America Volcanic Arc,1,2,1,50.0,50.0,50.0,60.0,-5050,1946,Media
+345031,Tenorio,Costa Rica,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+345033,Arenal,Costa Rica,Central America Volcanic Arc,1,27,4,88.9,7.4,7.4,56.3,-5060,1968,Media
+345034,Platanar,Costa Rica,Central America Volcanic Arc,1,0,,,,,,,,Sin erupciones
+345040,Poas,Costa Rica,Central America Volcanic Arc,1,63,2,85.7,68.3,66.7,81.1,-7920,2025,Alta
+345050,Barva,Costa Rica,Central America Volcanic Arc,1,1,4,100.0,0.0,0.0,60.0,-6050,-6050,Media
+345060,Irazu,Costa Rica,Central America Volcanic Arc,1,24,3,100.0,41.7,33.3,74.4,-640,1977,Alta
+345070,Turrialba,Costa Rica,Central America Volcanic Arc,1,21,4,71.4,52.4,57.1,71.4,-7260,2022,Media
+346010,Baru,Panama,Central America Volcanic Arc,1,8,,0.0,0.0,0.0,20.0,-9280,1550,Baja
+351011,Romeral,Colombia,Northern Andean Volcanic Arc,1,2,4,100.0,0.0,0.0,60.0,-6510,-5390,Media
+351012,"Bravo, Cerro",Colombia,Northern Andean Volcanic Arc,1,8,4,100.0,0.0,0.0,60.0,-4280,1720,Media
+351020,"Ruiz, Nevado del",Colombia,Northern Andean Volcanic Arc,1,20,4,85.0,40.0,20.0,66.8,-6660,2014,Media
+351021,Santa Isabel,Colombia,Northern Andean Volcanic Arc,1,4,,0.0,0.0,0.0,20.0,-5500,-850,Baja
+351030,"Tolima, Nevado del",Colombia,Northern Andean Volcanic Arc,1,12,5,75.0,8.3,8.3,51.3,-7800,1943,Media
+351040,Machin,Colombia,Northern Andean Volcanic Arc,1,7,,0.0,0.0,0.0,20.0,-3800,1180,Baja
+351050,"Huila, Nevado del",Colombia,Northern Andean Volcanic Arc,1,4,3,75.0,75.0,75.0,68.8,1555,2008,Media
+351060,Purace,Colombia,Northern Andean Volcanic Arc,1,29,3,89.7,55.2,37.9,74.5,-160,2025,Alta
+351061,Sotara,Colombia,Northern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+351070,Dona Juana,Colombia,Northern Andean Volcanic Arc,1,2,4,100.0,50.0,50.0,80.0,-2550,1897,Alta
+351080,Galeras,Colombia,Northern Andean Volcanic Arc,1,36,3,97.2,61.1,66.7,83.6,-7050,2012,Alta
+351090,Azufral,Colombia,Northern Andean Volcanic Arc,1,4,4,25.0,0.0,0.0,30.0,-2095,-930,Baja
+351100,Cumbal,Colombia,Northern Andean Volcanic Arc,1,2,2,100.0,50.0,50.0,86.0,1877,1926,Alta
+351110,Chiles-Cerro Negro,Colombia-Ecuador,Northern Andean Volcanic Arc,1,1,2,100.0,100.0,0.0,85.0,1936,1936,Alta
+352001,Soche,Ecuador,Northern Andean Volcanic Arc,1,1,5,100.0,0.0,0.0,45.0,-6650,-6650,Baja
+352002,Chachimbiro,Ecuador,Northern Andean Volcanic Arc,1,1,3,100.0,0.0,0.0,60.0,-3740,-3740,Media
+352003,Cuicocha,Ecuador,Northern Andean Volcanic Arc,1,4,5,25.0,0.0,0.0,30.0,-2550,650,Baja
+352004,Imbabura,Ecuador,Northern Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-5550,-5550,Baja
+352005,Mojanda,Ecuador,Northern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+352006,Cayambe,Ecuador,Northern Andean Volcanic Arc,1,22,4,18.2,0.0,4.5,27.8,-1800,1785,Baja
+352010,Reventador,Ecuador,Northern Andean Volcanic Arc,1,26,4,100.0,65.4,46.2,84.1,1541,2008,Alta
+352011,Pululahua,Ecuador,Northern Andean Volcanic Arc,1,4,5,50.0,0.0,0.0,40.0,-4800,290,Baja
+352020,Guagua Pichincha,Ecuador,Northern Andean Volcanic Arc,1,33,5,66.7,48.5,42.4,64.5,-7000,2002,Media
+352021,Atacazo,Ecuador,Northern Andean Volcanic Arc,1,4,5,100.0,0.0,0.0,60.0,-6910,-320,Media
+352022,Chacana,Ecuador,Northern Andean Volcanic Arc,1,5,0,40.0,0.0,0.0,36.0,-8050,1773,Baja
+352030,Antisana,Ecuador,Northern Andean Volcanic Arc,1,2,2,100.0,0.0,50.0,50.0,1748,1801,Media
+352031,Aliso,Ecuador,Northern Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-2450,-2450,Baja
+352040,Sumaco,Ecuador,Northern Andean Volcanic Arc,1,1,2,100.0,0.0,0.0,45.0,1895,1895,Baja
+352041,Iliniza,Ecuador,Northern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+352050,Cotopaxi,Ecuador,Northern Andean Volcanic Arc,1,85,5,92.9,24.7,32.9,70.3,-7690,2022,Media
+352060,Quilotoa,Ecuador,Northern Andean Volcanic Arc,1,1,6,100.0,0.0,0.0,60.0,1280,1280,Media
+352071,Chimborazo,Ecuador,Northern Andean Volcanic Arc,1,6,,0.0,0.0,0.0,20.0,-7500,550,Baja
+352080,Tungurahua,Ecuador,Northern Andean Volcanic Arc,1,31,5,77.4,35.5,38.7,60.2,-7750,2012,Media
+352081,Licto,Ecuador,Northern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+352090,Sangay,Ecuador,Northern Andean Volcanic Arc,1,11,3,100.0,90.9,90.9,97.5,1628,2019,Alta
+353010,Fernandina,Ecuador,Galapagos Hotspot Volcano Group,1,33,4,97.0,78.8,63.6,87.5,950,2024,Alta
+353011,Ecuador,Ecuador,Galapagos Hotspot Volcano Group,1,1,0,100.0,0.0,0.0,60.0,1150,1150,Media
+353020,Wolf,Ecuador,Galapagos Hotspot Volcano Group,1,16,4,75.0,56.2,56.2,73.1,150,2022,Media
+353030,Darwin,Ecuador,Galapagos Hotspot Volcano Group,1,3,2,100.0,33.3,33.3,68.3,210,1813,Media
+353040,Alcedo,Ecuador,Galapagos Hotspot Volcano Group,1,2,1,100.0,100.0,0.0,85.0,1953,1993,Alta
+353050,"Negra, Sierra",Ecuador,Galapagos Hotspot Volcano Group,1,18,3,83.3,50.0,33.3,66.5,-8250,2018,Media
+353060,"Azul, Cerro (Ecuador)",Ecuador,Galapagos Hotspot Volcano Group,1,14,3,85.7,50.0,35.7,67.9,-950,2008,Media
+353070,Pinta,Ecuador,Northern Galapagos Volcanic Province,1,0,,,,,,,,Sin erupciones
+353080,Marchena,Ecuador,Northern Galapagos Volcanic Province,1,1,2,100.0,100.0,100.0,100.0,1991,1991,Alta
+353081,Genovesa,Ecuador,Northern Galapagos Volcanic Province,1,0,,,,,,,,Sin erupciones
+353090,Santiago,Ecuador,Galapagos Hotspot Volcano Group,1,3,0,66.7,0.0,33.3,51.7,1759,1904,Media
+353091,Santa Cruz,Ecuador,Galapagos Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+353120,San Cristobal (Ecuador),Ecuador,Galapagos Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+354000,Quimsachata-Oroscocha,Peru,Central Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-4450,-4450,Baja
+354001,"Auquihuato, Cerro",Peru,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+354003,Coropuna,Peru,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+354004,Andahua-Orcopampa,Peru,Central Andean Volcanic Arc,1,3,,0.0,0.0,0.0,20.0,-2110,1490,Baja
+354005,Huambo,Peru,Central Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-700,-700,Baja
+354006,Sabancaya,Peru,Central Andean Volcanic Arc,1,12,3,58.3,58.3,50.0,65.2,-6600,2025,Media
+354010,"Misti, El",Peru,Central Andean Volcanic Arc,1,15,4,40.0,26.7,6.7,40.7,-7190,1985,Baja
+354020,Ubinas,Peru,Central Andean Volcanic Arc,1,25,5,92.0,40.0,32.0,70.6,-8560,2024,Media
+354030,Huaynaputina,Peru,Central Andean Volcanic Arc,1,2,6,50.0,50.0,50.0,60.0,-7750,1600,Media
+354031,Ticsani,Peru,Central Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1800,1800,Baja
+354040,Tutupaca,Peru,Central Andean Volcanic Arc,1,2,4,100.0,50.0,100.0,80.0,1787,1802,Alta
+354050,Yucamane,Peru,Central Andean Volcanic Arc,1,1,5,100.0,0.0,0.0,60.0,-1320,-1320,Media
+354060,"Casiri, Nevados",Peru,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355011,Taapaca,Chile,Central Andean Volcanic Arc,1,8,,0.0,0.0,0.0,20.0,-7900,-320,Baja
+355012,Parinacota,Chile-Bolivia,Central Andean Volcanic Arc,1,6,4,16.7,0.0,0.0,26.7,-7950,290,Baja
+355020,Guallatiri,Chile,Central Andean Volcanic Arc,1,4,2,100.0,50.0,0.0,68.8,1825,1960,Media
+355030,Isluga,Chile,Central Andean Volcanic Arc,1,7,2,100.0,0.0,0.0,56.6,1863,1913,Media
+355032,Tata Sabaya,Bolivia,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355040,Irruputuncu,Chile-Bolivia,Central Andean Volcanic Arc,1,1,2,100.0,100.0,100.0,100.0,1995,1995,Alta
+355050,Olca-Paruma,Chile-Bolivia,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355090,Putana,Chile,Central Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1810,1810,Baja
+355091,Sairecabur,Chile-Bolivia,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355092,Licancabur,Chile-Bolivia,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355093,Guayaques,Chile-Bolivia,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355094,Purico Complex,Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355095,Colachi,Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355096,Acamarachi,Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355098,Chiliques,Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355100,Lascar,Chile,Central Andean Volcanic Arc,1,33,4,93.9,72.7,78.8,85.7,-7250,2026,Alta
+355101,Cordon de Puntas Negras,Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355102,Miniques,Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355103,"Tujle, Cerro",Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355104,Caichinque,Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355105,Tilocalar,Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355107,Pular,Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355108,"Negrillar, La",Chile,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355109,Socompa,Chile-Argentina,Central Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-5250,-5250,Baja
+355110,Llullaillaco,Chile-Argentina,Central Andean Volcanic Arc,1,3,2,100.0,33.3,0.0,76.3,1854,1877,Alta
+355112,Corrida de Cori Volcanic Field,Chile-Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355120,Lastarria,Chile-Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355121,Cordon del Azufre,Chile-Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355122,"Bayo Gorbea, Cerro",Chile-Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355123,"Nevada, Sierra",Chile-Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355124,Falso Azufre,Chile-Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355125,"Incahuasi, Nevado de",Chile-Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355130,"Ojos del Salado, Nevados",Chile-Argentina,Central Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,750,750,Baja
+355131,"Solo, El",Chile-Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355160,Aracar,Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355161,Central Andean Arc at 25.1°S,Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355190,"Condor, El",Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355200,Peinado,Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+355210,"Blanco, Cerro",Argentina,Central Andean Volcanic Arc,1,1,7,100.0,0.0,0.0,60.0,-2300,-2300,Media
+355220,Tipas,Argentina,Central Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+356011,Rapa Nui,Chile,Salas y Gómez Ridge Volcano Group,1,0,,,,,,,,Sin erupciones
+356020,Robinson Crusoe,,,0,1,1,100.0,100.0,100.0,75.0,1835,1835,Alta
+357010,Tupungatito,Chile-Argentina,Southern Andean Volcanic Arc,1,18,2,100.0,61.1,44.4,83.3,1829,1987,Alta
+357020,San Jose,Chile-Argentina,Southern Andean Volcanic Arc,1,7,2,100.0,42.9,42.9,77.1,1822,1960,Alta
+357021,Maipo,Chile-Argentina,Southern Andean Volcanic Arc,1,4,2,100.0,75.0,25.0,75.0,1826,1912,Alta
+357022,Palomo,Chile,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+357023,"Atuel, Caldera del",Argentina,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+357024,Risco Plateado,Argentina,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+357030,Tinguiririca,Chile,Southern Andean Volcanic Arc,1,1,1,100.0,0.0,0.0,45.0,1917,1917,Baja
+357040,Planchon-Peteroa,Chile,Southern Andean Volcanic Arc,1,21,4,95.2,47.6,47.6,80.0,-5080,2025,Alta
+357041,Infiernillo,Argentina,Southern Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-6890,-6890,Baja
+357042,Calabozos,Chile,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+357050,Descabezado Grande,Chile,Southern Andean Volcanic Arc,1,1,3,100.0,100.0,100.0,100.0,1932,1932,Alta
+357060,"Azul, Cerro (Chile)",Chile,Southern Andean Volcanic Arc,1,9,5,100.0,55.6,33.3,76.9,1846,1967,Alta
+357061,"Maule, Laguna del",Chile,Southern Andean Volcanic Arc,1,4,0,100.0,0.0,0.0,60.0,-4450,-50,Media
+357062,San Pedro-Pellado,Chile,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+357063,"Longavi, Nevado de",Chile,Southern Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-4890,-4890,Baja
+357064,"Blancas, Lomas",Chile,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+357065,"Resago, Volcan",Chile,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+357066,Payun Matru,Argentina,Southern Andean Volcanic Arc,1,1,0,100.0,0.0,0.0,60.0,-5050,-5050,Media
+357070,"Chillan, Nevados de",Chile,Southern Andean Volcanic Arc,1,26,3,84.6,53.8,34.6,68.8,-6890,2016,Media
+357072,Tromen Volcanic Plateau,Argentina,Southern Andean Volcanic Arc,1,2,3,50.0,50.0,0.0,45.0,1751,1822,Baja
+357080,Antuco,Chile,Southern Andean Volcanic Arc,1,11,3,90.9,27.3,45.5,73.0,-7750,1869,Media
+357090,Copahue,Chile-Argentina,Southern Andean Volcanic Arc,1,21,2,81.0,71.4,52.4,76.7,-6820,2024,Alta
+357091,Callaqui,Chile,Southern Andean Volcanic Arc,1,2,2,100.0,100.0,50.0,92.5,1751,1980,Alta
+357093,Tolhuaca,Chile,Southern Andean Volcanic Arc,1,4,3,100.0,0.0,0.0,60.0,-5857,-4000,Media
+357100,Lonquimay,Chile,Southern Andean Volcanic Arc,1,4,3,100.0,75.0,50.0,89.2,1853,1988,Alta
+357102,"Blanca, Laguna",Argentina,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+357110,Llaima,Chile,Southern Andean Volcanic Arc,1,56,5,96.4,60.7,53.6,82.2,-7410,2008,Alta
+357111,Sollipulli,Chile,Southern Andean Volcanic Arc,1,2,5,50.0,0.0,0.0,40.0,-920,1240,Baja
+357112,Caburgua-Huelemolle,Chile,Southern Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-5050,-5050,Baja
+357120,Villarrica,Chile,Southern Andean Volcanic Arc,1,152,5,96.7,34.2,30.9,64.7,-7520,2014,Media
+357121,Quetrupillan,Chile,Southern Andean Volcanic Arc,1,4,4,100.0,0.0,0.0,56.2,-11345,255,Media
+357122,Lanin,Chile-Argentina,Southern Andean Volcanic Arc,1,8,0,12.5,0.0,0.0,25.0,-9240,560,Baja
+357123,Huanquihue Group,Argentina,Southern Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1750,1750,Baja
+357130,Mocho-Choshuenco,Chile,Southern Andean Volcanic Arc,1,2,2,50.0,100.0,50.0,72.5,1864,1937,Media
+357140,Carran-Los Venados,Chile,Southern Andean Volcanic Arc,1,3,4,100.0,100.0,100.0,100.0,1907,1979,Alta
+357150,Puyehue-Cordon Caulle,Chile,Southern Andean Volcanic Arc,1,26,5,50.0,26.9,15.4,48.5,-5080,2011,Baja
+357153,Antillanca Volcanic Complex,Chile,Southern Andean Volcanic Arc,1,2,5,100.0,0.0,0.0,60.0,-960,-230,Media
+357160,Puntiagudo-Cordon Cenizos,Chile,Southern Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1850,1850,Baja
+358010,Osorno,Chile,Southern Andean Volcanic Arc,1,17,4,70.6,17.6,11.8,50.9,-1710,1869,Media
+358011,Tronador,Chile-Argentina,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+358012,Cayutue-La Vigueria,Chile,Southern Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-190,-190,Baja
+358020,Calbuco,Chile,Southern Andean Volcanic Arc,1,36,5,50.0,19.4,22.2,47.2,-8460,2015,Baja
+358022,Yate,Chile,Southern Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1090,1090,Baja
+358023,Hornopiren,Chile,Southern Andean Volcanic Arc,1,2,4,50.0,0.0,0.0,40.0,-3720,340,Baja
+358024,Apagado,Chile,Southern Andean Volcanic Arc,1,1,4,100.0,0.0,0.0,60.0,-590,-590,Media
+358025,Crater Basalt Volcanic Field,Argentina,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+358030,Huequi,Chile,Southern Andean Volcanic Arc,1,7,3,100.0,0.0,14.3,60.0,1695,1920,Media
+358040,Michinmahuida,Chile,Southern Andean Volcanic Arc,1,7,6,85.7,28.6,14.3,59.3,-8400,1835,Media
+358041,Chaiten,Chile,Southern Andean Volcanic Arc,1,5,5,80.0,20.0,20.0,57.0,-7750,2008,Media
+358049,Yanteles,Chile,Southern Andean Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-7240,-6650,Baja
+358050,Corcovado,Chile,Southern Andean Volcanic Arc,1,3,,0.0,0.0,0.0,20.0,-6640,-4920,Baja
+358052,Melimoyu,Chile,Southern Andean Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-820,200,Baja
+358053,Puyuhuapi,Chile,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+358054,Mentolat,Chile,Southern Andean Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,-5010,1710,Baja
+358055,Cay,Chile,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+358056,Maca,Chile,Southern Andean Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,410,1560,Baja
+358057,"Hudson, Cerro",Chile,Southern Andean Volcanic Arc,1,15,6,33.3,20.0,20.0,41.3,-8010,2011,Baja
+358060,Lautaro,Chile,Austral Andean Volcanic Arc,1,9,2,88.9,66.7,11.1,70.4,1876,1979,Media
+358062,Aguilera,Chile,Austral Andean Volcanic Arc,1,2,5,50.0,0.0,0.0,40.0,-2610,-1253,Baja
+358063,Reclus,Chile,Austral Andean Volcanic Arc,1,4,2,75.0,0.0,0.0,46.2,-1830,1908,Baja
+358064,Meullin,Chile,Southern Andean Volcanic Arc,1,0,,,,,,,,Sin erupciones
+358070,"Burney, Monte",Chile,Austral Andean Volcanic Arc,1,7,5,42.9,0.0,0.0,38.9,-7450,1910,Baja
+358080,Pali-Aike Volcanic Field,Chile-Argentina,Austral Andean Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,-5550,-5550,Baja
+358090,Fueguino,Chile,Austral Andean Volcanic Arc,1,1,2,100.0,100.0,100.0,85.0,1820,1820,Alta
+360010,Saba,Netherlands,Lesser Antilles Volcanic Arc,1,1,,0.0,0.0,0.0,20.0,1640,1640,Baja
+360020,"Quill, The",Netherlands,Lesser Antilles Volcanic Arc,1,3,4,33.3,0.0,0.0,33.3,-6140,250,Baja
+360030,Liamuiga,Saint Kitts and Nevis,Lesser Antilles Volcanic Arc,1,3,4,66.7,0.0,0.0,46.7,-2010,160,Baja
+360040,Nevis Peak,Saint Kitts and Nevis,Lesser Antilles Volcanic Arc,1,0,,,,,,,,Sin erupciones
+360050,Soufriere Hills,United Kingdom,Lesser Antilles Volcanic Arc,1,9,3,33.3,33.3,33.3,43.3,-8050,2005,Baja
+360060,Soufriere Guadeloupe,France,Lesser Antilles Volcanic Arc,1,16,4,62.5,31.2,31.2,56.4,-7490,1976,Media
+360080,"Diables, Morne aux",Dominica,Lesser Antilles Volcanic Arc,1,0,,,,,,,,Sin erupciones
+360090,"Diablotins, Morne",Dominica,Lesser Antilles Volcanic Arc,1,0,,,,,,,,Sin erupciones
+360100,"Trois Pitons, Morne",Dominica,Lesser Antilles Volcanic Arc,1,2,,0.0,0.0,0.0,20.0,790,920,Baja
+360101,"Watt, Morne",Dominica,Lesser Antilles Volcanic Arc,1,5,2,40.0,40.0,40.0,49.0,-1800,1997,Baja
+360110,"Plat Pays, Morne",Dominica,Lesser Antilles Volcanic Arc,1,4,,0.0,0.0,0.0,20.0,-4740,1270,Baja
+360120,Pelee,France,Lesser Antilles Volcanic Arc,1,54,4,44.4,7.4,7.4,39.4,-8210,1929,Baja
+360140,Qualibou,Saint Lucia,Lesser Antilles Volcanic Arc,1,1,1,100.0,0.0,0.0,60.0,1766,1766,Media
+360150,Soufriere St. Vincent,Saint Vincent and the Grenadines,Lesser Antilles Volcanic Arc,1,22,4,36.4,31.8,31.8,45.8,-2380,2020,Baja
+360160,Kick 'em Jenny,Grenada,Lesser Antilles Volcanic Arc,1,15,1,93.3,93.3,86.7,92.7,1000,2017,Alta
+360170,St. Catherine,Grenada,Lesser Antilles Volcanic Arc,1,0,,,,,,,,Sin erupciones
+370010,Snaefellsjokull,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,10,2,60.0,0.0,0.0,42.5,-8460,200,Baja
+370020,Helgrindur,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+370030,Ljosufjoll,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,5,3,100.0,0.0,0.0,57.0,-7050,960,Media
+371020,Reykjanes,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,22,4,77.3,31.8,27.3,61.6,-8000,2025,Media
+371022,Eldey,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,5,4,100.0,60.0,20.0,75.0,1211,1926,Alta
+371030,Krysuvik-Trolladyngja,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,11,2,100.0,0.0,0.0,60.0,-8500,1340,Media
+371032,Fagradalsfjall,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,3,0,100.0,100.0,100.0,100.0,2021,2023,Alta
+371040,Brennisteinsfjoll,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,9,2,100.0,11.1,0.0,62.8,-9000,1341,Media
+371050,Hengill,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,13,2,84.6,0.0,0.0,53.8,-8350,150,Media
+371051,Hromundartindur,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+371060,Grimsnes,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,11,3,90.9,0.0,0.0,52.3,-7750,-3500,Media
+371070,Prestahnukur,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,3,0,100.0,0.0,0.0,60.0,-7550,-3350,Media
+371080,Oddnyjarhnjukur-Langjokull,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,6,2,100.0,0.0,0.0,57.5,-8600,950,Media
+371090,Hofsjokull,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+372010,Vestmannaeyjar,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,10,4,50.0,20.0,30.0,50.4,-8050,1973,Media
+372020,Eyjafjallajokull,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,5,4,80.0,40.0,40.0,68.0,550,2010,Media
+372030,Katla,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,128,5,21.1,7.8,6.2,30.7,-6380,1918,Baja
+372040,Tindfjallajokull,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+372050,Torfajokull,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,10,3,30.0,0.0,0.0,31.7,-6050,1477,Baja
+372070,Hekla,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,65,5,44.6,32.3,24.6,49.1,-5850,2000,Media
+373010,Grimsvotn,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,76,6,52.6,28.9,21.1,51.6,-8230,2011,Media
+373012,Thordarhyrna,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,3,4,100.0,66.7,66.7,90.7,1823,1902,Alta
+373030,Bardarbunga,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,44,6,47.7,15.9,13.6,43.2,-7100,2014,Baja
+373040,Tungnafellsjokull,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+373050,Kverkfjoll,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,8,1,75.0,50.0,25.0,69.2,-7050,1968,Media
+373060,Askja,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,14,5,100.0,35.7,14.3,70.6,-8910,1961,Media
+373070,Fremrinamar,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,4,0,50.0,0.0,0.0,40.0,-4050,-1200,Baja
+373080,Krafla,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,23,4,95.7,52.2,39.1,75.2,-8500,1984,Alta
+373082,Heidarspordar,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,7,2,85.7,0.0,0.0,54.3,-7850,-300,Media
+373090,Theistareykir,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,3,0,100.0,0.0,0.0,60.0,-9500,-900,Media
+373100,Tjornes Fracture Zone,Iceland,Arctic Ridge Volcanic Province,1,1,,0.0,0.0,100.0,47.0,1867,1867,Baja
+374010,Oraefajokull,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,2,5,100.0,100.0,100.0,100.0,1362,1727,Alta
+374020,Esjufjoll,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+374801,Snaefell,Iceland,Iceland Neovolcanic Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+375010,Kolbeinsey Ridge,Iceland,Arctic Ridge Volcanic Province,1,2,2,50.0,50.0,0.0,40.0,1372,1755,Baja
+376010,Jan Mayen,Norway,Arctic Ridge Volcanic Province,1,7,4,71.4,57.1,42.9,68.9,1350,1985,Media
+377020,East Gakkel Ridge at 85°E,Undersea Features,Arctic Ridge Volcanic Province,1,1,2,100.0,100.0,100.0,100.0,1999,1999,Alta
+381040,Pico Fracture Zone,Undersea Features,Azores-Terceira Rift Volcanic Province,1,1,0,100.0,100.0,0.0,85.0,1865,1865,Alta
+382001,Flores (Portugal),Portugal,Azores-Terceira Rift Volcanic Province,1,2,,0.0,0.0,0.0,20.0,-1200,-950,Baja
+382010,Fayal,Portugal,Azores-Terceira Rift Volcanic Province,1,2,2,100.0,100.0,100.0,100.0,1672,1957,Alta
+382020,Pico,Portugal,Azores-Terceira Rift Volcanic Province,1,3,2,100.0,100.0,100.0,100.0,1562,1720,Alta
+382030,Sao Jorge,Portugal,Azores-Terceira Rift Volcanic Province,1,10,3,40.0,40.0,40.0,50.5,-2137,1902,Media
+382040,Graciosa,Portugal,Azores-Terceira Rift Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-1950,-1950,Baja
+382050,Terceira,Portugal,Azores-Terceira Rift Volcanic Province,1,15,3,20.0,20.0,20.0,36.0,-6720,1998,Baja
+382070,Don Joao de Castro Bank,Portugal,Azores-Terceira Rift Volcanic Province,1,1,3,100.0,100.0,100.0,100.0,1720,1720,Alta
+382080,Sete Cidades,Portugal,Azores-Terceira Rift Volcanic Province,1,16,4,87.5,25.0,18.8,61.9,-3050,1880,Media
+382081,Picos Fissural Volcanic System,Portugal,Azores-Terceira Rift Volcanic Province,1,7,2,14.3,14.3,14.3,31.4,-4040,1652,Baja
+382090,Agua de Pau,Portugal,Azores-Terceira Rift Volcanic Province,1,10,5,50.0,20.0,20.0,46.5,-6750,1564,Baja
+382100,Furnas,Portugal,Azores-Terceira Rift Volcanic Province,1,9,5,66.7,11.1,11.1,51.1,-4570,1630,Media
+382110,Monaco Bank,Portugal,Azores-Terceira Rift Volcanic Province,1,2,1,100.0,100.0,0.0,85.0,1907,1911,Alta
+382120,Madeira,Portugal,Madeira Hotspot Volcano Group,1,1,,0.0,0.0,0.0,20.0,-4500,-4500,Baja
+383010,La Palma,Spain,Canary Volcanic Province,1,14,3,57.1,50.0,50.0,61.8,-6050,2021,Media
+383020,Hierro,Spain,Canary Volcanic Province,1,4,2,25.0,25.0,25.0,40.0,-4790,2011,Baja
+383030,Tenerife,Spain,Canary Volcanic Province,1,42,4,14.3,11.9,9.5,30.1,-7550,1909,Baja
+383040,Gran Canaria,Spain,Canary Volcanic Province,1,11,,0.0,0.0,0.0,20.0,-4670,40,Baja
+383050,Fuerteventura,Spain,Canary Volcanic Province,1,0,,,,,,,,Sin erupciones
+383060,Lanzarote,Spain,Canary Volcanic Province,1,4,3,50.0,50.0,50.0,60.0,500,1824,Media
+384010,Fogo,Cabo Verde,Cape Verde Hotspot Volcano Group,1,12,2,75.0,75.0,75.0,81.0,1500,2014,Alta
+384020,Brava,Cabo Verde,Cape Verde Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+385030,Romanche Fracture Zone,Undersea Features,Central Mid-Atlantic Rift Volcanic Province,1,0,,,,,,,,Sin erupciones
+385050,Ascension,United Kingdom,Central Mid-Atlantic Rift Volcanic Province,1,3,0,100.0,0.0,0.0,60.0,378,1508,Media
+385052,Walvis Ridge at 33°S,Undersea Features,Southern Atlantic Volcano Group,1,1,0,100.0,100.0,100.0,100.0,2001,2001,Alta
+386010,Tristan da Cunha,United Kingdom,Southern Atlantic Volcano Group,1,2,2,50.0,50.0,50.0,60.0,1700,1961,Media
+386011,Nightingale Island,United Kingdom,Southern Atlantic Volcano Group,1,1,0,100.0,100.0,100.0,100.0,2004,2004,Alta
+386020,Bouvet,Norway,Southern Atlantic Volcano Group,1,1,0,100.0,0.0,0.0,60.0,-50,-50,Media
+390010,Buckle Island,Antarctica,Balleny Hotspot Volcano Group,1,2,2,100.0,100.0,0.0,85.0,1839,1899,Alta
+390011,Young Island,Antarctica,Balleny Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+390012,Sturge Island,Antarctica,Balleny Hotspot Volcano Group,1,0,,,,,,,,Sin erupciones
+390013,"Pleiades, The",Antarctica,McMurdo Volcanic Province,1,1,,0.0,0.0,0.0,20.0,-1050,-1050,Baja
+390015,Melbourne,Antarctica,McMurdo Volcanic Province,1,1,,0.0,0.0,0.0,20.0,1892,1892,Baja
+390016,McMurdo Province at 76.8°S,Antarctica,McMurdo Volcanic Province,1,0,,,,,,,,Sin erupciones
+390017,Morning,Antarctica,McMurdo Volcanic Province,1,0,,,,,,,,Sin erupciones
+390020,Erebus,Antarctica,McMurdo Volcanic Province,1,20,2,100.0,40.0,20.0,76.0,-8050,1972,Alta
+390021,Royal Society Range,Antarctica,McMurdo Volcanic Province,1,0,,,,,,,,Sin erupciones
+390022,Berlin,Antarctica,Western Antarctica Volcanic Province,1,1,0,100.0,0.0,0.0,60.0,-8350,-8350,Media
+390023,Andrus,Antarctica,Western Antarctica Volcanic Province,1,0,,,,,,,,Sin erupciones
+390027,Takahe,Antarctica,Western Antarctica Volcanic Province,1,3,,0.0,0.0,0.0,20.0,-7050,-5550,Baja
+390028,Hudson Mountains,Antarctica,Western Antarctica Volcanic Province,1,1,4,100.0,0.0,0.0,45.0,-207,-207,Baja
+390030,Deception Island,Antarctica,South Shetlands Volcanic Arc,1,24,3,20.8,12.5,8.3,32.6,-6750,1970,Baja
+390031,Penguin Island,Antarctica,South Shetlands Volcanic Arc,1,3,,0.0,0.0,0.0,20.0,1683,1905,Baja
+390040,Bridgeman Island,Antarctica,South Shetlands Volcanic Arc,1,0,,,,,,,,Sin erupciones
+390041,Paulet,Antarctica,Antarctic Peninsula Volcanic Province,1,0,,,,,,,,Sin erupciones
+390070,Southern Thule,United Kingdom,South Sandwich Volcanic Arc,1,1,1,100.0,100.0,0.0,70.0,1975,1975,Media
+390080,Bristol Island,United Kingdom,South Sandwich Volcanic Arc,1,6,3,100.0,83.3,50.0,88.3,1823,2016,Alta
+390081,Montagu Island,United Kingdom,South Sandwich Volcanic Arc,1,1,1,100.0,100.0,100.0,85.0,2001,2001,Alta
+390090,Saunders,United Kingdom,South Sandwich Volcanic Arc,1,7,2,100.0,85.7,71.4,92.1,1819,2014,Alta
+390100,Candlemas Island,United Kingdom,South Sandwich Volcanic Arc,1,3,2,66.7,33.3,0.0,55.0,-1250,1911,Media
+390110,Hodson,United Kingdom,South Sandwich Volcanic Arc,1,0,,,,,,,,Sin erupciones
+390120,Leskov Island,United Kingdom,South Sandwich Volcanic Arc,1,0,,,,,,,,Sin erupciones
+390130,Zavodovski,United Kingdom,South Sandwich Volcanic Arc,1,2,2,100.0,50.0,50.0,86.0,1819,2016,Alta
+390140,Protector Seamounts,United Kingdom,South Sandwich Volcanic Arc,1,1,1,100.0,100.0,100.0,100.0,1962,1962,Alta
+390829,Mount Haddington Volcanic Field,Antarctica,Antarctic Peninsula Volcanic Province,1,0,,,,,,,,Sin erupciones
+390847,Melville,Antarctica,South Shetlands Volcanic Arc,1,0,,,,,,,,Sin erupciones

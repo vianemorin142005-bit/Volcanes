@@ -1,0 +1,34 @@
+﻿id,tabla,campo,problema,tecnica,regla_aplicada,registros_afectados,ejemplo_antes,ejemplo_despues
+L01,volcanes,(archivo),El .xls es un XML de Excel 2003 con marcado inválido; pandas/xlrd/lxml no lo abren,Parseo robusto con expresiones regulares,"Extraer <Row>/<Cell>/<Data>, respetar ss:Index, des-escapar HTML, omitir 2 filas de título",1214,XMLSyntaxError línea 6,1214 filas x 14 columnas
+L02,erupciones,(archivo),2 filas de título antes del encabezado real y hoja Info con la cita,Detección de encabezado,"Leer hoja ""Eruption List"" con header=1",9918,Encabezado en fila 3,9918 filas x 22 columnas
+L03,volcanes,todas,Espacios sobrantes / cadenas vacías,Normalización de texto,strip() y vacío -> NULL,0,""" texto """,texto
+L04,volcanes,latitud/longitud/elevacion_m,Números almacenados como texto,Conversión de tipos,to_numeric(errors=coerce),1214,'50.1700',50.17
+L05,volcanes,latitud/longitud,Coordenadas fuera de rango,Validación de rangos,"|lat|<=90 y |lon|<=180; si no, marcar",0,rango observado lat -78.5..85.6,sin incidencias
+L06,volcanes,elevacion_m,Elevación sin dato,Tratamiento de nulos,Se deja NULL (no se imputa); se cuenta en calidad,2,vacío,NULL
+L07,volcanes,elevacion_m,Elevaciones negativas (volcanes submarinos),Ingeniería de atributos,es_submarino = elevacion_m < 0,112,-5700,es_submarino=1
+L08,volcanes,ultima_erupcion_texto,"Año como texto con sufijo BCE/CE y valor ""Unknown""",Parseo y estandarización de fechas,"BCE -> año negativo; ""Unknown"" -> NULL en ultima_erupcion_anio",366,8300 BCE / Unknown,-8300 / NULL
+L09,volcanes,nombre,"Mismo nombre para volcanes distintos (Flores, San Cristobal, Azul Cerro...)",Desambiguación de entidades,nombre_unico = nombre + país cuando hay repetición; la unión usa SIEMPRE volcano_number,8,Flores (x2),Flores (Guatemala) / Flores (Portugal)
+L10,volcanes,volcano_number,Duplicados de llave,Verificación de unicidad,Debe ser único,0,n/a,0 duplicados
+L11,erupciones,encabezados,Nombres con espacios y paréntesis,Estandarización de nombres de columnas,snake_case en español,22,Start Year Modifier,anio_inicio_mod
+L12,erupciones,eruption_number,Duplicados,Deduplicación,Revisar eruption_number y filas idénticas,0,n/a,0 duplicados
+L13,erupciones,vei,VEI vacío,Tratamiento de nulos,"Se conserva NULL; en dim_vei existe la fila ""Desconocido""; no se imputa",2193,NaN,"NULL -> sk_vei ""Desconocido"""
+L14,erupciones,vei,VEI como decimal (2.0),Conversión de tipos,float -> entero anulable,7725,2.0,2
+L15,erupciones,vei_modificador,"Modificador de VEI con valores ?, ^, +, P, C",Marcado (flag) de incertidumbre,"Se conserva el valor original y se crea vei_incierto=1 cuando es ""?""; los demás símbolos se documentan sin reinterpretar (ver glosario GVP)",885,'?',vei_incierto=1
+L16,erupciones,mes_inicio,"Valor 0 usado como ""desconocido"" en mes/día",Recodificación de centinelas,0 -> NULL,4324,0,NULL
+L17,erupciones,dia_inicio,"Valor 0 usado como ""desconocido"" en mes/día",Recodificación de centinelas,0 -> NULL,5017,0,NULL
+L18,erupciones,mes_fin,"Valor 0 usado como ""desconocido"" en mes/día",Recodificación de centinelas,0 -> NULL,239,0,NULL
+L19,erupciones,dia_fin,"Valor 0 usado como ""desconocido"" en mes/día",Recodificación de centinelas,0 -> NULL,673,0,NULL
+L20,erupciones,fecha inicio,Fechas parciales (solo año o año-mes),Ingeniería de atributos,"precision_inicio ∈ {completa, año-mes, solo año}; no se inventan días ni meses",5274,"1586, mes 4, día 0",solo año/año-mes según el caso
+L21,erupciones,fecha fin,Fecha de fin ausente,Tratamiento de nulos,"precision_fin = ""sin fecha""; duración queda NULL",5772,NaN,sin fecha
+L22,erupciones,anio_inicio,"Años negativos (antes de Cristo) hasta -55,500",Estandarización de fechas,Se conserva año astronómico negativo y se agrega era a.C./d.C.,2289,-5850,"-5850, a.C."
+L23,erupciones,anio_fin,Fin anterior al inicio,Validación de consistencia,anio_fin >= anio_inicio,0,n/a,0 inconsistencias
+L24,erupciones,dia_inicio,Día sin mes,Validación de consistencia,Se reporta,0,n/a,0 casos
+L25,erupciones,duracion_dias,La duración no existe en el original,Ingeniería de atributos,Solo con fechas completas de inicio y fin y años d.C. (datetime no admite a.C.),3368,n/a,días calculados
+L26,erupciones,duracion_anios,Duración a nivel de año,Ingeniería de atributos,anio_fin - anio_inicio cuando hay año de fin,4146,n/a,años calculados
+L27,erupciones,metodo_datacion,Método de datación vacío,Tratamiento de nulos,"Se etiqueta ""Sin dato""",46,NaN,Sin dato
+L28,erupciones,metodo_datacion,"Texto compuesto ""tipo: detalle""",Descomposición de atributos,"tipo_evidencia = texto antes de "":""",9918,Isotopic: 14C (uncalibrated),Isotopic
+L29,integridad,volcano_number,Erupciones cuyo volcán no está en el catálogo,Integridad referencial,Se conservan; se agrega el volcán a dim_volcan con en_catalogo=0 y atributos NULL,7,Moekeshiwan [Lvinaya Past]; Muria; Igwisi Hills,en_catalogo=0
+L30,integridad,nombre,Mismo volcano_number con nombre distinto entre hojas,Conciliación de entidades,Prevalece el nombre del catálogo; el de erupciones se guarda en nombre_volcan_origen,4,Vailulu'u / Vailuluu | Kita-Ioto / Funka Asane,nombre del catálogo
+L31,integridad,volcano_number,Volcanes del catálogo sin erupciones confirmadas,Análisis de cobertura,Se conservan en dim_volcan y se marcan n_erupciones=0,366,Unknown,n_erupciones=0
+L32,integridad,(versiones),Hojas de versiones distintas: erupciones v5.3.5 (24-abr-2026; la hoja Info cita v5.2.8) y volcanes v5.4.0 (15-oct-2026),Documentación de linaje,Se registra en README; se recomienda re-descargar ambas el mismo día,0,v5.3.5 / v5.4.0,documentado
+L33,calidad,puntaje_calidad,No existía una medida de calidad del registro,Puntaje de completitud ponderado (0-100),"VEI conocido 25 + VEI sin ""?"" 15 + fecha inicio completa 25 (año-mes 12) + fecha fin 15 + volcán en catálogo 10 + evidencia conocida 10. Alta>=75, Media 50-74, Baja<50",9918,n/a,media 68.6

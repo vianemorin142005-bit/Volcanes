@@ -1,0 +1,36 @@
+﻿sk_calidad,vei_conocido,vei_sin_incertidumbre,precision_fecha_inicio,tiene_fecha_fin,volcan_en_catalogo,evidencia_conocida,puntaje_calidad,nivel_calidad
+1,0,0,solo año,0,0,1,10,Baja
+2,0,0,solo año,0,1,0,10,Baja
+3,0,0,solo año,0,1,1,20,Baja
+4,0,0,año-mes,0,1,1,32,Baja
+5,0,0,completa,0,1,0,35,Baja
+6,1,0,solo año,0,1,0,35,Baja
+7,0,0,solo año,1,1,1,35,Baja
+8,1,0,solo año,0,0,1,35,Baja
+9,0,0,completa,0,1,1,45,Baja
+10,1,0,solo año,0,1,1,45,Baja
+11,0,0,año-mes,1,1,1,47,Baja
+12,1,0,solo año,1,1,0,50,Media
+13,1,1,solo año,0,1,0,50,Media
+14,1,1,solo año,0,0,1,50,Media
+15,0,0,completa,1,1,0,50,Media
+16,1,0,año-mes,0,1,1,57,Media
+17,1,0,completa,0,1,0,60,Media
+18,0,0,completa,1,1,1,60,Media
+19,1,0,solo año,1,1,1,60,Media
+20,1,1,solo año,0,1,1,60,Media
+21,1,1,año-mes,0,1,0,62,Media
+22,1,0,año-mes,1,1,0,62,Media
+23,1,1,solo año,1,1,0,65,Media
+24,1,0,completa,0,1,1,70,Media
+25,1,0,año-mes,1,1,1,72,Media
+26,1,1,año-mes,0,1,1,72,Media
+27,1,1,solo año,1,1,1,75,Alta
+28,1,1,completa,0,1,0,75,Alta
+29,1,0,completa,1,1,0,75,Alta
+30,1,0,completa,1,0,1,75,Alta
+31,1,0,completa,1,1,1,85,Alta
+32,1,1,completa,0,1,1,85,Alta
+33,1,1,año-mes,1,1,1,87,Alta
+34,1,1,completa,1,1,0,90,Alta
+35,1,1,completa,1,1,1,100,Alta

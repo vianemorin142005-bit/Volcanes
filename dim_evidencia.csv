@@ -1,0 +1,27 @@
+﻿sk_evidencia,metodo_datacion,tipo_evidencia
+1,Chem/Bio: Hydration Rind,Chem/Bio
+2,Chem/Bio: Lichenometry,Chem/Bio
+3,Correlation: Anthropology,Correlation
+4,Correlation: Magnetism,Correlation
+5,Correlation: Tephrochronology,Correlation
+6,Isotopic: 14C (calibrated),Isotopic
+7,Isotopic: 14C (uncalibrated),Isotopic
+8,Isotopic: Ar/Ar,Isotopic
+9,Isotopic: Cosmic Ray Exposure,Isotopic
+10,Isotopic: K/Ar,Isotopic
+11,Isotopic: Po-Pb,Isotopic
+12,Isotopic: Uranium-series,Isotopic
+13,Observations: Aviation,Observations
+14,Observations: Hydrophonic,Observations
+15,Observations: Photo / Video,Observations
+16,Observations: Reported,Observations
+17,Observations: Satellite (infrared),Observations
+18,Observations: Satellite (visual),Observations
+19,Observations: Seismicity,Observations
+20,Radiogenic: Fission track,Radiogenic
+21,Radiogenic: Thermoluminescence,Radiogenic
+22,Sidereal: Dendrochronology,Sidereal
+23,Sidereal: Ice Core,Sidereal
+24,Sidereal: Varve Count,Sidereal
+25,Sin dato,Sin dato
+26,Uncertain,Uncertain

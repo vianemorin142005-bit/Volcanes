@@ -1,0 +1,16 @@
+﻿fila_original,eruption_number,volcan_bruto,VEI_bruto,VEI_mod_bruto,anio_inicio_bruto,mes_inicio_bruto,dia_inicio_bruto,anio_fin_bruto,vei_limpio,vei_incierto,mes_inicio_limpio,dia_inicio_limpio,precision_inicio,precision_fin,duracion_dias,nivel_calidad
+7848,11680,Wolf,0.0,,1450,0.0,0.0,,0,0,,,solo año,sin fecha,,Media
+9144,19081,Avachinsky,,,1550,0.0,0.0,,,0,,,solo año,sin fecha,,Baja
+882,18990,Gorely,3.0,,-4350,0.0,0.0,,3,0,,,solo año,sin fecha,,Media
+4793,12532,Grimsnes,2.0,?,-4450,0.0,0.0,,2,1,,,solo año,sin fecha,,Baja
+9095,22639,Kronotsky,3.0,,-4050,,,,3,0,,,solo año,sin fecha,,Media
+8775,22332,Saunders,0.0,,1989,1.0,30.0,1990.0,0,0,1,30,completa,completa,416,Alta
+4093,10216,Mauna Loa,0.0,,1916,5.0,19.0,1916.0,0,0,5,19,completa,completa,11,Alta
+8740,18695,Akan,1.0,,1960,9.0,16.0,1960.0,1,0,9,16,completa,completa,0,Alta
+2281,19622,Udokan Plateau,,,-7290,0.0,0.0,,,0,,,solo año,sin fecha,,Baja
+6536,10310,Adams Seamount,0.0,,-1050,0.0,0.0,,0,0,,,solo año,sin fecha,,Media
+1154,13770,Etna,2.0,,1910,12.0,27.0,1911.0,2,0,12,27,completa,completa,52,Alta
+1723,16695,Matutum,,,-400,,,,,0,,,solo año,sin fecha,,Baja
+6720,10997,Momotombo,2.0,,1878,10.0,14.0,,2,0,10,14,completa,sin fecha,,Alta
+2883,10041,Campi Flegrei,3.0,,1538,9.0,29.0,1538.0,3,0,9,29,completa,completa,7,Alta
+1583,13927,Alu-Dalafilla,3.0,?,2008,11.0,3.0,2008.0,3,1,11,3,completa,completa,43,Alta

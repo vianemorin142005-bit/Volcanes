@@ -1,0 +1,27 @@
+﻿sk_vei,vei_nivel,vei_modificador,categoria_explosividad
+1,,Ninguno,Desconocido
+2,,P,Desconocido
+3,0,Ninguno,No explosiva
+4,0,?,No explosiva
+5,1,Ninguno,Suave
+6,1,?,Suave
+7,2,Ninguno,Explosiva
+8,2,?,Explosiva
+9,3,Ninguno,Severa
+10,3,?,Severa
+11,3,^,Severa
+12,4,Ninguno,Cataclísmica
+13,4,+,Cataclísmica
+14,4,?,Cataclísmica
+15,4,C,Cataclísmica
+16,4,P,Cataclísmica
+17,4,^,Cataclísmica
+18,5,Ninguno,Paroxística
+19,5,+,Paroxística
+20,5,?,Paroxística
+21,5,P,Paroxística
+22,6,Ninguno,Colosal
+23,6,+,Colosal
+24,6,?,Colosal
+25,7,Ninguno,Súper-colosal
+26,7,?,Súper-colosal

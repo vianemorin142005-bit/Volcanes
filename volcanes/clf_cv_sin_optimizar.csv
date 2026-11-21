@@ -1,0 +1,6 @@
+,Accuracy,Precision,Recall,F1,F1 (desv.)
+Línea base (clase mayoritaria),0.762,0.0,0.0,0.0,0.0
+Regresión logística,0.771,0.574,0.159,0.249,0.007
+Regresión logística balanceada,0.732,0.452,0.578,0.507,0.013
+Random Forest,0.838,0.68,0.603,0.638,0.024
+Gradient Boosting,0.847,0.767,0.515,0.615,0.023

@@ -1,0 +1,6 @@
+Tarea,División,Modelo,MAE,RMSE,R2,Accuracy,Precision,Recall,F1
+Regresión,Por volcán,Línea base (mediana),0.842,1.234,-0.008,,,,
+Regresión,Por volcán,Random Forest (optimizado),0.716,1.008,0.327,,,,
+Regresión,Aleatoria,Random Forest (optimizado),0.543,0.845,0.491,,,,
+Clasificación,Por volcán,Random Forest (optimizado),,,,0.84,0.689,0.576,0.628
+Clasificación,Aleatoria,Random Forest (optimizado),,,,0.865,0.732,0.68,0.705

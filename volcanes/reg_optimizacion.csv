@@ -1,0 +1,4 @@
+Modelo,Mejores hiperparámetros,RMSE CV antes,RMSE CV después
+Ridge,{'alpha': 100},1.112,1.112
+Random Forest,"{'max_depth': 12, 'min_samples_leaf': 1, 'n_estimators': 200}",0.879,0.853
+Gradient Boosting,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 200}",0.896,0.856

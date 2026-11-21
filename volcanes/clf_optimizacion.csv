@@ -1,0 +1,4 @@
+Modelo,Mejores hiperparámetros,F1 CV antes,F1 CV después
+Regresión logística balanceada,{'C': 1},0.507,0.507
+Random Forest,"{'max_depth': 12, 'min_samples_leaf': 1, 'n_estimators': 200}",0.638,0.668
+Gradient Boosting,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 200}",0.615,0.645

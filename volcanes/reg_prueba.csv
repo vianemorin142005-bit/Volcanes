@@ -1,0 +1,5 @@
+Modelo,MAE,RMSE,R2
+Línea base (mediana),0.769,1.185,-0.0
+Ridge (optimizado),0.782,1.115,0.114
+Random Forest (optimizado),0.543,0.845,0.491
+Gradient Boosting (optimizado),0.574,0.851,0.484

@@ -1,0 +1,10 @@
+{
+  "n_total": 9918,
+  "n_modelado": 6840,
+  "n_train": 5472,
+  "n_test": 1368,
+  "positivos_test": 325,
+  "umbral_elegido": 0.5299999999999999,
+  "mejor_regresion": "Random Forest (optimizado)",
+  "modelo_clasificacion": "Random Forest (umbral 0.53)"
+}

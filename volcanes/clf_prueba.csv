@@ -1,0 +1,7 @@
+Modelo,Accuracy,Precision,Recall,F1,TN,FP,FN,TP
+Línea base (clase mayoritaria),0.762,0.0,0.0,0.0,1043,0,325,0
+Regresión logística (umbral 0.5),0.781,0.647,0.169,0.268,1013,30,270,55
+Regresión logística balanceada (optimizado) (umbral 0.5),0.74,0.463,0.594,0.52,819,224,132,193
+Random Forest (optimizado) (umbral 0.5),0.865,0.732,0.68,0.705,962,81,104,221
+Gradient Boosting (optimizado) (umbral 0.5),0.871,0.811,0.594,0.686,998,45,132,193
+Random Forest (umbral 0.53),0.866,0.752,0.652,0.699,973,70,113,212

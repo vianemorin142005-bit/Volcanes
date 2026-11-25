@@ -1,0 +1,15 @@
+{
+  "n_volcanes": 682,
+  "n_pca_90": 4,
+  "k_final": 3,
+  "modelo_final": "K-Means estandarizado (k=3)",
+  "silhouette_base": 0.05156460146544151,
+  "silhouette_final": 0.29083209392105325,
+  "ch_base": 46.76435785280484,
+  "ch_final": 303.10620241235017,
+  "db_base": 3.5020367319674377,
+  "db_final": 1.217219496074421,
+  "var_pc1": 0.35564503535110203,
+  "var_pc2": 0.3212061404356905,
+  "var_pc3": 0.12663114178654444
+}

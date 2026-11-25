@@ -1,0 +1,6 @@
+modelo,k,silhouette,calinski_harabasz,davies_bouldin,pct_ruido
+"K-Means k=3, sin escalar (base)",3,0.052,46.764,3.502,0.0
+K-Means estandarizado (k=3),3,0.291,303.106,1.217,0.0
+"K-Means sobre PCA (k=3, 4 comp.)",3,0.291,303.106,1.217,0.0
+Jerárquico Ward (k=3),3,0.253,254.918,1.328,0.0
+"DBSCAN (eps=1.0, ms=20)",2,0.609,148.668,0.554,91.349

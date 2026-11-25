@@ -1,0 +1,9 @@
+,PC1,PC2,PC3
+log_n_erupciones,-0.264,0.486,0.191
+vei_medio,0.474,0.324,-0.044
+vei_max,0.294,0.496,0.096
+pct_explosivas,0.493,0.231,0.024
+log_anios_desde_ultima,0.428,-0.3,-0.069
+log_n_ultimos_500,-0.399,0.434,0.072
+elevacion_m,0.097,0.278,-0.445
+abs_latitud,0.154,-0.07,0.862

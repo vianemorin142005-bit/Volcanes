@@ -1,0 +1,10 @@
+cluster,nombre,pais,tipo_volcan,n_erupciones,vei_medio,vei_max
+0,Hualalai,United States,Shield,22,0.23,2.0
+0,Taveuni,Fiji,Shield,34,1.79,2.0
+0,Shasta,United States,Stratovolcano,22,1.0,4.0
+1,"Fournaise, Piton de la",France,Shield,198,1.04,5.0
+1,Villarrica,Chile,Stratovolcano,152,1.81,5.0
+1,Asosan,Japan,Caldera,172,1.89,3.0
+2,Arenal,Costa Rica,Stratovolcano,27,3.46,4.0
+2,Taranaki,New Zealand,Stratovolcano,42,4.0,5.0
+2,Taupo,New Zealand,Caldera,25,3.72,6.0

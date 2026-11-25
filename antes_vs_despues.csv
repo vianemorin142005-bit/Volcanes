@@ -1,0 +1,3 @@
+modelo,k,silhouette,calinski_harabasz,davies_bouldin,mejora_silhouette_%
+"K-Means k=3, sin escalar (base)",3,0.052,46.764,3.502,
+FINAL: K-Means estandarizado (k=3),3,0.291,303.106,1.217,464.015

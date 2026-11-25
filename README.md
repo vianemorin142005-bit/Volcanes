@@ -29,5 +29,25 @@ jupyter notebook U3_Analisis_Supervisado_VEI.ipynb   # ejecutar todas las celdas
 ```
 Semilla fija (`SEED = 42`): los resultados son reproducibles con la misma versión de scikit-learn.
 
+## Unidad 4 · Análisis no supervisado
+
+| Archivo | Contenido |
+| --- | --- |
+| `U4_Analisis_No_Supervisado_Volcanes.ipynb` | **Notebook completo** (código, tablas y gráficas ya ejecutados) |
+| `U4_Analisis_No_Supervisado_Volcanes.py` | Mismo código en formato script |
+| `resultados_u4/dataset_transformado_volcanes.csv` | **Dataset transformado** (682 volcanes, una fila por volcán) |
+| `resultados_u4/*.csv`, `*.json` | Tablas de resultados (métricas, perfiles, PCA) |
+| `figuras_u4/*.png` | Gráficas usadas en el documento |
+
+**Problema:** agrupar volcanes según su comportamiento eruptivo, sin etiquetas.
+**Algoritmos:** PCA, K-Means (k=3), Ward, DBSCAN y t-SNE para visualización.
+**Métricas:** Silhouette, Calinski-Harabasz, Davies-Bouldin y ARI de estabilidad.
+
+### Cómo ejecutarlo
+    pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+    jupyter notebook U4_Analisis_No_Supervisado_Volcanes.ipynb
+
+Semilla fija (`SEED = 42`).
+
 ## Referencia
 Global Volcanism Program. (2026). *Volcanoes of the World* (versión 5.4.0; 7 de agosto de 2026) [Base de datos]. Smithsonian Institution. https://doi.org/10.5479/si.GVP.VOTW5-2026.5.4
